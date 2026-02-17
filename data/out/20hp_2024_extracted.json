@@ -1,0 +1,23 @@
+{
+  "company_name": "20hp",
+  "report_year": 2024,
+  "environmental": {
+    "scope_1_emissions_tCO2e": 2.0,
+    "renewable_energy_percentage": 2024.0,
+    "total_energy_consumption_MWh": 13.0,
+    "waste_recycled_percentage": 17.3,
+    "waste_generated_tonnes": 90.0,
+    "scope_2_emissions_tCO2e": 2.0,
+    "water_withdrawal_ML": 2.0,
+    "scope_3_emissions_tCO2e": 2023.0,
+    "carbon_intensity_tCO2e_per_million_revenue": 2.4
+  },
+  "social": {
+    "employee_engagement_score": 3.0,
+    "human_rights_policy_compliance": true,
+    "employee_turnover_rate_percentage": 2023.0
+  },
+  "governance": {
+    "independent_directors_percentage": 2024.0
+  }
+}

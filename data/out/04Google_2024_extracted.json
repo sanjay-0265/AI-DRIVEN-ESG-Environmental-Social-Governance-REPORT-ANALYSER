@@ -1,0 +1,19 @@
+{
+  "company_name": "04Google",
+  "report_year": 2024,
+  "environmental": {
+    "water_withdrawal_ML": 18.0,
+    "total_energy_consumption_MWh": 28.0,
+    "carbon_intensity_tCO2e_per_million_revenue": 43.0,
+    "scope_1_emissions_tCO2e": 2.0,
+    "scope_2_emissions_tCO2e": 2.0,
+    "scope_3_emissions_tCO2e": 13.0,
+    "waste_generated_tonnes": 12000.0,
+    "climate_risk_disclosures": true,
+    "renewable_energy_percentage": 2024.0
+  },
+  "social": {
+    "community_investment_usd": 2024.0
+  },
+  "governance": {}
+}

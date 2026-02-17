@@ -1,0 +1,22 @@
+{
+  "company_name": "18nvidia",
+  "report_year": 2025,
+  "environmental": {
+    "scope_3_emissions_tCO2e": 1.0,
+    "renewable_energy_percentage": 25.0,
+    "carbon_intensity_tCO2e_per_million_revenue": 17640.0,
+    "scope_1_emissions_tCO2e": 2.0,
+    "total_energy_consumption_MWh": 25.0,
+    "scope_2_emissions_tCO2e": 0.0,
+    "waste_generated_tonnes": 1416.0,
+    "waste_recycled_percentage": 2759.0,
+    "water_withdrawal_ML": 409814.0
+  },
+  "social": {
+    "employee_turnover_rate_percentage": 2000.0,
+    "workforce_diversity_minority_percentage": 40.5
+  },
+  "governance": {
+    "anti_corruption_training_coverage_percentage": 94.0
+  }
+}

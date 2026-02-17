@@ -1,0 +1,15 @@
+{
+  "company_name": "19meta",
+  "report_year": 2024,
+  "environmental": {
+    "scope_3_emissions_tCO2e": 2030.0,
+    "scope_1_emissions_tCO2e": 2.0,
+    "scope_2_emissions_tCO2e": 1658.0,
+    "waste_generated_tonnes": 38468.0,
+    "carbon_intensity_tCO2e_per_million_revenue": 2031.0,
+    "water_withdrawal_ML": 2017.0,
+    "total_energy_consumption_MWh": 50.0
+  },
+  "social": {},
+  "governance": {}
+}

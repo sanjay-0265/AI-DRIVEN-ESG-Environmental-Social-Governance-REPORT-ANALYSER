@@ -1,0 +1,21 @@
+{
+  "company_name": "06awi",
+  "report_year": 2023,
+  "environmental": {
+    "scope_1_emissions_tCO2e": 2.0,
+    "scope_2_emissions_tCO2e": 80.0,
+    "total_energy_consumption_MWh": 2023.0,
+    "renewable_energy_percentage": 30.0,
+    "waste_generated_tonnes": 50.0,
+    "climate_risk_disclosures": true,
+    "water_withdrawal_ML": 304.0,
+    "carbon_intensity_tCO2e_per_million_revenue": 305.0
+  },
+  "social": {
+    "employee_engagement_score": 2024.0,
+    "health_and_safety_incident_rate_TRIR": 71.0
+  },
+  "governance": {
+    "independent_directors_percentage": 88.0
+  }
+}

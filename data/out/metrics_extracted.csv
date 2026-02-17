@@ -1,0 +1,756 @@
+company_name,report_year,metric_name,unit,value,year,source_page,source_file,category,json_key
+0,2024,Community investment ($ spent or % of profits),USD,52,2024,3,01lenova.pdf,social,community_investment_usd
+01lenova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,19,01lenova.pdf,environmental,scope_1_emissions_tCO2e
+01lenova,2024,Scope 1 GHG emissions (direct),tCO2e,333,2024,20,01lenova.pdf,environmental,scope_1_emissions_tCO2e
+01lenova,2024,Scope 3 GHG emissions (value chain),tCO2e,20,2024,20,01lenova.pdf,environmental,scope_3_emissions_tCO2e
+01lenova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,21,01lenova.pdf,environmental,scope_1_emissions_tCO2e
+01lenova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,22,01lenova.pdf,environmental,scope_1_emissions_tCO2e
+01lenova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,50,2024,22,01lenova.pdf,environmental,scope_2_emissions_tCO2e
+01lenova,2024,Scope 3 GHG emissions (value chain),tCO2e,35,2024,22,01lenova.pdf,environmental,scope_3_emissions_tCO2e
+01lenova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,23,01lenova.pdf,environmental,scope_1_emissions_tCO2e
+01lenova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,24,01lenova.pdf,environmental,scope_1_emissions_tCO2e
+01lenova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,34.5,2024,24,01lenova.pdf,environmental,scope_2_emissions_tCO2e
+01lenova,2024,Total energy consumption,MWh,2024,2024,24,01lenova.pdf,environmental,total_energy_consumption_MWh
+01lenova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,25,01lenova.pdf,environmental,scope_1_emissions_tCO2e
+01lenova,2024,Water withdrawal and consumption,ML,2029,2024,27,01lenova.pdf,environmental,water_withdrawal_ML
+01lenova,2024,Community investment ($ spent or % of profits),USD,56,2024,40,01lenova.pdf,social,community_investment_usd
+01lenova,2024,Human rights policy compliance,boolean,TRUE,2024,80,01lenova.pdf,social,human_rights_policy_compliance
+01lenova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,85,01lenova.pdf,environmental,scope_1_emissions_tCO2e
+01lenova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2024,85,01lenova.pdf,environmental,scope_2_emissions_tCO2e
+01lenova,2024,Scope 3 GHG emissions (value chain),tCO2e,66.5,2024,85,01lenova.pdf,environmental,scope_3_emissions_tCO2e
+01lenova,2024,Water withdrawal and consumption,ML,2014,2024,86,01lenova.pdf,environmental,water_withdrawal_ML
+01lenova,2024,Human rights policy compliance,boolean,TRUE,2024,87,01lenova.pdf,social,human_rights_policy_compliance
+01lenova,2024,Gender pay gap,%,2,2024,95,01lenova.pdf,social,gender_pay_gap_percentage
+01lenova,2024,Employee turnover rate,%,8,2024,96,01lenova.pdf,social,employee_turnover_rate_percentage
+01lenova,2024,Training hours per employee,hours,1,2024,97,01lenova.pdf,social,training_hours_per_employee
+01lenova,2024,Health and safety incident rate (TRIR/LTIR),rate,0.04,2024,97,01lenova.pdf,social,health_and_safety_incident_rate_TRIR
+01lenova,2024,Community investment ($ spent or % of profits),USD,98,2024,98,01lenova.pdf,social,community_investment_usd
+01lenova,2024,Scope 1 GHG emissions (direct),tCO2e,7269,2024,99,01lenova.pdf,environmental,scope_1_emissions_tCO2e
+01lenova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,177678,2024,99,01lenova.pdf,environmental,scope_2_emissions_tCO2e
+01lenova,2024,Scope 3 GHG emissions (value chain),tCO2e,23966561,2024,99,01lenova.pdf,environmental,scope_3_emissions_tCO2e
+01lenova,2024,Waste generated,tonnes,1770,2024,99,01lenova.pdf,environmental,waste_generated_tonnes
+01lenova,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,1,2024,99,01lenova.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+01lenova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2015,2024,100,01lenova.pdf,environmental,scope_2_emissions_tCO2e
+01lenova,2024,Scope 3 GHG emissions (value chain),tCO2e,2011,2024,100,01lenova.pdf,environmental,scope_3_emissions_tCO2e
+01lenova,2024,Scope 1 GHG emissions (direct),tCO2e,1,2024,101,01lenova.pdf,environmental,scope_1_emissions_tCO2e
+01lenova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2,2024,101,01lenova.pdf,environmental,scope_2_emissions_tCO2e
+01lenova,2024,Scope 3 GHG emissions (value chain),tCO2e,3,2024,101,01lenova.pdf,environmental,scope_3_emissions_tCO2e
+01lenova,2024,Total energy consumption,MWh,1,2024,102,01lenova.pdf,environmental,total_energy_consumption_MWh
+01lenova,2024,Renewable energy usage (%),%,88,2024,103,01lenova.pdf,environmental,renewable_energy_percentage
+01lenova,2024,Waste generated,tonnes,3,2024,104,01lenova.pdf,environmental,waste_generated_tonnes
+01lenova,2024,Water withdrawal and consumption,ML,1,2024,105,01lenova.pdf,environmental,water_withdrawal_ML
+01lenova,2024,Total energy consumption,MWh,2029,2024,113,01lenova.pdf,environmental,total_energy_consumption_MWh
+01lenova,2024,Scope 3 GHG emissions (value chain),tCO2e,35,2024,114,01lenova.pdf,environmental,scope_3_emissions_tCO2e
+01lenova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,117,01lenova.pdf,environmental,scope_1_emissions_tCO2e
+01lenova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2,2024,117,01lenova.pdf,environmental,scope_2_emissions_tCO2e
+01lenova,2024,Total energy consumption,MWh,2025,2024,117,01lenova.pdf,environmental,total_energy_consumption_MWh
+01lenova,2024,Water withdrawal and consumption,ML,1.8,2024,118,01lenova.pdf,environmental,water_withdrawal_ML
+01lenova,2024,Waste recycled (%),%,90,2024,118,01lenova.pdf,environmental,waste_recycled_percentage
+01lenova,2024,Scope 3 GHG emissions (value chain),tCO2e,3,2024,119,01lenova.pdf,environmental,scope_3_emissions_tCO2e
+01lenova,2024,Total energy consumption,MWh,95,2024,119,01lenova.pdf,environmental,total_energy_consumption_MWh
+01lenova,2024,Scope 3 GHG emissions (value chain),tCO2e,3,2024,120,01lenova.pdf,environmental,scope_3_emissions_tCO2e
+01lenova,2024,Community investment ($ spent or % of profits),USD,15,2024,125,01lenova.pdf,social,community_investment_usd
+01lenova,2024,Employee engagement score,score,126,2024,126,01lenova.pdf,social,employee_engagement_score
+01lenova,2024,Climate risk disclosures (TCFD compliance),boolean,TRUE,2024,131,01lenova.pdf,environmental,climate_risk_disclosures
+01lenova,2024,Total energy consumption,MWh,102,2024,135,01lenova.pdf,environmental,total_energy_consumption_MWh
+01lenova,2024,Water withdrawal and consumption,ML,105,2024,135,01lenova.pdf,environmental,water_withdrawal_ML
+01lenova,2024,Scope 1 GHG emissions (direct),tCO2e,99,2024,136,01lenova.pdf,environmental,scope_1_emissions_tCO2e
+01lenova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,99,2024,136,01lenova.pdf,environmental,scope_2_emissions_tCO2e
+01lenova,2024,Scope 3 GHG emissions (value chain),tCO2e,99,2024,136,01lenova.pdf,environmental,scope_3_emissions_tCO2e
+01lenova,2024,Waste generated,tonnes,104,2024,136,01lenova.pdf,environmental,waste_generated_tonnes
+01lenova,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,99,2024,136,01lenova.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+01lenova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,139,01lenova.pdf,environmental,scope_1_emissions_tCO2e
+01lenova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,99,2024,139,01lenova.pdf,environmental,scope_2_emissions_tCO2e
+01lenova,2024,Total energy consumption,MWh,102,2024,140,01lenova.pdf,environmental,total_energy_consumption_MWh
+01lenova,2024,Water withdrawal and consumption,ML,105,2024,140,01lenova.pdf,environmental,water_withdrawal_ML
+01lenova,2024,Employee turnover rate,%,96,2024,141,01lenova.pdf,social,employee_turnover_rate_percentage
+01lenova,2024,Training hours per employee,hours,97,2024,142,01lenova.pdf,social,training_hours_per_employee
+01lenova,2024,Anti-corruption training coverage,%,66,2024,143,01lenova.pdf,governance,anti_corruption_training_coverage_percentage
+01lenova,2024,Community investment ($ spent or % of profits),USD,52,2024,144,01lenova.pdf,social,community_investment_usd
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,2,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,4,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Total energy consumption,MWh,2022,2024,4,02Sonova.pdf,environmental,total_energy_consumption_MWh
+02Sonova,2024,Climate risk disclosures (TCFD compliance),boolean,TRUE,2024,6,02Sonova.pdf,environmental,climate_risk_disclosures
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,13,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Scope 3 GHG emissions (value chain),tCO2e,32.5,2024,13,02Sonova.pdf,environmental,scope_3_emissions_tCO2e
+02Sonova,2024,Total energy consumption,MWh,10,2024,13,02Sonova.pdf,environmental,total_energy_consumption_MWh
+02Sonova,2024,Water withdrawal and consumption,ML,5,2024,13,02Sonova.pdf,environmental,water_withdrawal_ML
+02Sonova,2024,Workforce diversity (% female),%,35,2024,13,02Sonova.pdf,social,workforce_diversity_female_percentage
+02Sonova,2024,Employee engagement score,score,30.5,2024,13,02Sonova.pdf,social,employee_engagement_score
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,3,2024,16,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Scope 3 GHG emissions (value chain),tCO2e,2024,2024,16,02Sonova.pdf,environmental,scope_3_emissions_tCO2e
+02Sonova,2024,Total energy consumption,MWh,1,2024,16,02Sonova.pdf,environmental,total_energy_consumption_MWh
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,17,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Scope 3 GHG emissions (value chain),tCO2e,32.5,2024,17,02Sonova.pdf,environmental,scope_3_emissions_tCO2e
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,19,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Scope 3 GHG emissions (value chain),tCO2e,2024,2024,19,02Sonova.pdf,environmental,scope_3_emissions_tCO2e
+02Sonova,2024,Total energy consumption,MWh,10,2024,19,02Sonova.pdf,environmental,total_energy_consumption_MWh
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,5,2024,20,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Total energy consumption,MWh,108886,2024,20,02Sonova.pdf,environmental,total_energy_consumption_MWh
+02Sonova,2024,Renewable energy usage (%),%,2024,2024,20,02Sonova.pdf,environmental,renewable_energy_percentage
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,21,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2024,21,02Sonova.pdf,environmental,scope_2_emissions_tCO2e
+02Sonova,2024,Scope 3 GHG emissions (value chain),tCO2e,1,2024,21,02Sonova.pdf,environmental,scope_3_emissions_tCO2e
+02Sonova,2024,Waste generated,tonnes,538,2024,21,02Sonova.pdf,environmental,waste_generated_tonnes
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,22,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,14.3,2024,22,02Sonova.pdf,environmental,scope_2_emissions_tCO2e
+02Sonova,2024,Scope 3 GHG emissions (value chain),tCO2e,95,2024,22,02Sonova.pdf,environmental,scope_3_emissions_tCO2e
+02Sonova,2024,Renewable energy usage (%),%,2,2024,22,02Sonova.pdf,environmental,renewable_energy_percentage
+02Sonova,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,2023,2024,22,02Sonova.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,2.6,2024,23,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,0.2,2024,23,02Sonova.pdf,environmental,scope_2_emissions_tCO2e
+02Sonova,2024,Scope 3 GHG emissions (value chain),tCO2e,60.6,2024,23,02Sonova.pdf,environmental,scope_3_emissions_tCO2e
+02Sonova,2024,Waste generated,tonnes,3545,2024,25,02Sonova.pdf,environmental,waste_generated_tonnes
+02Sonova,2024,Waste recycled (%),%,50,2024,25,02Sonova.pdf,environmental,waste_recycled_percentage
+02Sonova,2024,Water withdrawal and consumption,ML,5,2024,26,02Sonova.pdf,environmental,water_withdrawal_ML
+02Sonova,2024,Employee turnover rate,%,14.7,2024,28,02Sonova.pdf,social,employee_turnover_rate_percentage
+02Sonova,2024,Employee turnover rate,%,1,2024,29,02Sonova.pdf,social,employee_turnover_rate_percentage
+02Sonova,2024,Employee engagement score,score,68,2024,32,02Sonova.pdf,social,employee_engagement_score
+02Sonova,2024,Employee engagement score,score,2,2024,33,02Sonova.pdf,social,employee_engagement_score
+02Sonova,2024,Human rights policy compliance,boolean,TRUE,2024,34,02Sonova.pdf,social,human_rights_policy_compliance
+02Sonova,2024,Gender pay gap,%,2024,2024,36,02Sonova.pdf,social,gender_pay_gap_percentage
+02Sonova,2024,Workforce diversity (% female),%,62,2024,37,02Sonova.pdf,social,workforce_diversity_female_percentage
+02Sonova,2024,Human rights policy compliance,boolean,TRUE,2024,40,02Sonova.pdf,social,human_rights_policy_compliance
+02Sonova,2024,Data privacy/security incidents,count,0,2024,51,02Sonova.pdf,governance,data_privacy_incidents
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,61,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2024,2024,61,02Sonova.pdf,environmental,scope_2_emissions_tCO2e
+02Sonova,2024,Scope 3 GHG emissions (value chain),tCO2e,2,2024,61,02Sonova.pdf,environmental,scope_3_emissions_tCO2e
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,62,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2024,62,02Sonova.pdf,environmental,scope_2_emissions_tCO2e
+02Sonova,2024,Scope 3 GHG emissions (value chain),tCO2e,1,2024,62,02Sonova.pdf,environmental,scope_3_emissions_tCO2e
+02Sonova,2024,Water withdrawal and consumption,ML,73,2024,62,02Sonova.pdf,environmental,water_withdrawal_ML
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,63,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,1,2024,63,02Sonova.pdf,environmental,scope_2_emissions_tCO2e
+02Sonova,2024,Scope 3 GHG emissions (value chain),tCO2e,2,2024,63,02Sonova.pdf,environmental,scope_3_emissions_tCO2e
+02Sonova,2024,Water withdrawal and consumption,ML,2,2024,63,02Sonova.pdf,environmental,water_withdrawal_ML
+02Sonova,2024,Scope 3 GHG emissions (value chain),tCO2e,5,2024,64,02Sonova.pdf,environmental,scope_3_emissions_tCO2e
+02Sonova,2024,Waste generated,tonnes,2,2024,64,02Sonova.pdf,environmental,waste_generated_tonnes
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,1,2024,65,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2024,2024,65,02Sonova.pdf,environmental,scope_2_emissions_tCO2e
+02Sonova,2024,Scope 3 GHG emissions (value chain),tCO2e,11,2024,65,02Sonova.pdf,environmental,scope_3_emissions_tCO2e
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,66,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2023,2024,66,02Sonova.pdf,environmental,scope_2_emissions_tCO2e
+02Sonova,2024,Scope 3 GHG emissions (value chain),tCO2e,15,2024,66,02Sonova.pdf,environmental,scope_3_emissions_tCO2e
+02Sonova,2024,Total energy consumption,MWh,1,2024,66,02Sonova.pdf,environmental,total_energy_consumption_MWh
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,67,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Scope 3 GHG emissions (value chain),tCO2e,8,2024,67,02Sonova.pdf,environmental,scope_3_emissions_tCO2e
+02Sonova,2024,Water withdrawal and consumption,ML,73,2024,67,02Sonova.pdf,environmental,water_withdrawal_ML
+02Sonova,2024,Waste generated,tonnes,80,2024,67,02Sonova.pdf,environmental,waste_generated_tonnes
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,72,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2024,72,02Sonova.pdf,environmental,scope_2_emissions_tCO2e
+02Sonova,2024,Scope 3 GHG emissions (value chain),tCO2e,217,2024,72,02Sonova.pdf,environmental,scope_3_emissions_tCO2e
+02Sonova,2024,Climate risk disclosures (TCFD compliance),boolean,TRUE,2024,72,02Sonova.pdf,environmental,climate_risk_disclosures
+02Sonova,2024,Scope 1 GHG emissions (direct),tCO2e,2016,2024,74,02Sonova.pdf,environmental,scope_1_emissions_tCO2e
+02Sonova,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,1,2024,74,02Sonova.pdf,environmental,scope_2_emissions_tCO2e
+02Sonova,2024,Scope 3 GHG emissions (value chain),tCO2e,305,2024,74,02Sonova.pdf,environmental,scope_3_emissions_tCO2e
+02Sonova,2024,Total energy consumption,MWh,2016,2024,74,02Sonova.pdf,environmental,total_energy_consumption_MWh
+02Sonova,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,3,2024,74,02Sonova.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+02Sonova,2024,Total energy consumption,MWh,1,2024,75,02Sonova.pdf,environmental,total_energy_consumption_MWh
+02Sonova,2024,Water withdrawal and consumption,ML,303,2024,75,02Sonova.pdf,environmental,water_withdrawal_ML
+02Sonova,2024,Waste generated,tonnes,308,2024,75,02Sonova.pdf,environmental,waste_generated_tonnes
+03Microsoft,2025,Waste recycled (%),%,2030,2025,4,03Microsoft.pdf,environmental,waste_recycled_percentage
+03Microsoft,2025,Scope 1 GHG emissions (direct),tCO2e,2,2025,5,03Microsoft.pdf,environmental,scope_1_emissions_tCO2e
+03Microsoft,2025,Scope 3 GHG emissions (value chain),tCO2e,2030,2025,5,03Microsoft.pdf,environmental,scope_3_emissions_tCO2e
+03Microsoft,2025,Total energy consumption,MWh,150,2025,6,03Microsoft.pdf,environmental,total_energy_consumption_MWh
+03Microsoft,2025,Scope 1 GHG emissions (direct),tCO2e,2,2025,11,03Microsoft.pdf,environmental,scope_1_emissions_tCO2e
+03Microsoft,2025,Scope 3 GHG emissions (value chain),tCO2e,2030,2025,11,03Microsoft.pdf,environmental,scope_3_emissions_tCO2e
+03Microsoft,2025,Scope 1 GHG emissions (direct),tCO2e,23,2025,12,03Microsoft.pdf,environmental,scope_1_emissions_tCO2e
+03Microsoft,2025,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2030,2025,12,03Microsoft.pdf,environmental,scope_2_emissions_tCO2e
+03Microsoft,2025,Scope 3 GHG emissions (value chain),e,2,2025,12,03Microsoft.pdf,environmental,scope_3_emissions_tCO2e
+03Microsoft,2025,Scope 1 GHG emissions (direct),tCO2e,0.97,2025,13,03Microsoft.pdf,environmental,scope_1_emissions_tCO2e
+03Microsoft,2025,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,1.74,2025,13,03Microsoft.pdf,environmental,scope_2_emissions_tCO2e
+03Microsoft,2025,Scope 3 GHG emissions (value chain),tCO2e,3,2025,13,03Microsoft.pdf,environmental,scope_3_emissions_tCO2e
+03Microsoft,2025,Waste generated,tonnes,0.05,2025,13,03Microsoft.pdf,environmental,waste_generated_tonnes
+03Microsoft,2025,Total energy consumption,MWh,35,2025,15,03Microsoft.pdf,environmental,total_energy_consumption_MWh
+03Microsoft,2025,Scope 1 GHG emissions (direct),tCO2e,2,2025,16,03Microsoft.pdf,environmental,scope_1_emissions_tCO2e
+03Microsoft,2025,Total energy consumption,MWh,20,2025,17,03Microsoft.pdf,environmental,total_energy_consumption_MWh
+03Microsoft,2025,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,73,2025,17,03Microsoft.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+03Microsoft,2025,Scope 3 GHG emissions (value chain),tCO2e,2030,2025,18,03Microsoft.pdf,environmental,scope_3_emissions_tCO2e
+03Microsoft,2025,Total energy consumption,MWh,15,2025,19,03Microsoft.pdf,environmental,total_energy_consumption_MWh
+03Microsoft,2025,Scope 3 GHG emissions (value chain),tCO2e,100,2025,25,03Microsoft.pdf,environmental,scope_3_emissions_tCO2e
+03Microsoft,2025,Water withdrawal and consumption,ML,2030,2025,27,03Microsoft.pdf,environmental,water_withdrawal_ML
+03Microsoft,2025,Water withdrawal and consumption,ML,50,2025,31,03Microsoft.pdf,environmental,water_withdrawal_ML
+03Microsoft,2025,Water withdrawal and consumption,ML,24,2025,37,03Microsoft.pdf,environmental,water_withdrawal_ML
+03Microsoft,2025,Scope 3 GHG emissions (value chain),tCO2e,24.2,2025,64,03Microsoft.pdf,environmental,scope_3_emissions_tCO2e
+03Microsoft,2025,Scope 3 GHG emissions (value chain),tCO2e,2020,2025,73,03Microsoft.pdf,environmental,scope_3_emissions_tCO2e
+03Microsoft,2025,Scope 3 GHG emissions (value chain),tCO2e,2020,2025,75,03Microsoft.pdf,environmental,scope_3_emissions_tCO2e
+03Microsoft,2025,Scope 1 GHG emissions (direct),tCO2e,2,2025,82,03Microsoft.pdf,environmental,scope_1_emissions_tCO2e
+03Microsoft,2025,Total energy consumption,MWh,5,2025,89,03Microsoft.pdf,environmental,total_energy_consumption_MWh
+04Google,2024,Water withdrawal and consumption,ML,18,2024,8,04Google.pdf,environmental,water_withdrawal_ML
+04Google,2024,Total energy consumption,MWh,28,2024,12,04Google.pdf,environmental,total_energy_consumption_MWh
+04Google,2024,Total energy consumption,MWh,43,2024,15,04Google.pdf,environmental,total_energy_consumption_MWh
+04Google,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,43,2024,15,04Google.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+04Google,2024,Total energy consumption,MWh,2023,2024,35,04Google.pdf,environmental,total_energy_consumption_MWh
+04Google,2024,Water withdrawal and consumption,ML,67,2024,40,04Google.pdf,environmental,water_withdrawal_ML
+04Google,2024,Water withdrawal and consumption,ML,28,2024,41,04Google.pdf,environmental,water_withdrawal_ML
+04Google,2024,Water withdrawal and consumption,ML,68,2024,42,04Google.pdf,environmental,water_withdrawal_ML
+04Google,2024,Community investment ($ spent or % of profits),USD,2024,2024,66,04Google.pdf,social,community_investment_usd
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,80,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2,2024,80,04Google.pdf,environmental,scope_2_emissions_tCO2e
+04Google,2024,Scope 3 GHG emissions (value chain),tCO2e,13,2024,80,04Google.pdf,environmental,scope_3_emissions_tCO2e
+04Google,2024,Waste generated,tonnes,12000,2024,80,04Google.pdf,environmental,waste_generated_tonnes
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,119,2024,81,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2024,81,04Google.pdf,environmental,scope_2_emissions_tCO2e
+04Google,2024,Scope 3 GHG emissions (value chain),tCO2e,3,2024,81,04Google.pdf,environmental,scope_3_emissions_tCO2e
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,82,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,37,2024,82,04Google.pdf,environmental,scope_2_emissions_tCO2e
+04Google,2024,Scope 3 GHG emissions (value chain),tCO2e,4,2024,82,04Google.pdf,environmental,scope_3_emissions_tCO2e
+04Google,2024,Waste generated,tonnes,14000,2024,82,04Google.pdf,environmental,waste_generated_tonnes
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,83,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,1,2024,83,04Google.pdf,environmental,scope_2_emissions_tCO2e
+04Google,2024,Scope 3 GHG emissions (value chain),tCO2e,3,2024,83,04Google.pdf,environmental,scope_3_emissions_tCO2e
+04Google,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3.1,2024,84,04Google.pdf,environmental,scope_2_emissions_tCO2e
+04Google,2024,Scope 3 GHG emissions (value chain),tCO2e,8.4,2024,84,04Google.pdf,environmental,scope_3_emissions_tCO2e
+04Google,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,9,2024,85,04Google.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+04Google,2024,Water withdrawal and consumption,ML,135,2024,86,04Google.pdf,environmental,water_withdrawal_ML
+04Google,2024,Climate risk disclosures (TCFD compliance),boolean,TRUE,2024,89,04Google.pdf,environmental,climate_risk_disclosures
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,91,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Total energy consumption,MWh,86.8,2024,91,04Google.pdf,environmental,total_energy_consumption_MWh
+04Google,2024,Renewable energy usage (%),%,2024,2024,91,04Google.pdf,environmental,renewable_energy_percentage
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,92,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2024,92,04Google.pdf,environmental,scope_2_emissions_tCO2e
+04Google,2024,Community investment ($ spent or % of profits),USD,97,2024,97,04Google.pdf,social,community_investment_usd
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,1,2024,98,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2,2024,98,04Google.pdf,environmental,scope_2_emissions_tCO2e
+04Google,2024,Scope 3 GHG emissions (value chain),tCO2e,3,2024,98,04Google.pdf,environmental,scope_3_emissions_tCO2e
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,99,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,4,2024,99,04Google.pdf,environmental,scope_2_emissions_tCO2e
+04Google,2024,Scope 3 GHG emissions (value chain),tCO2e,3,2024,99,04Google.pdf,environmental,scope_3_emissions_tCO2e
+04Google,2024,Waste generated,tonnes,6,2024,99,04Google.pdf,environmental,waste_generated_tonnes
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,100,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,101,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2024,101,04Google.pdf,environmental,scope_2_emissions_tCO2e
+04Google,2024,Scope 3 GHG emissions (value chain),tCO2e,145,2024,101,04Google.pdf,environmental,scope_3_emissions_tCO2e
+04Google,2024,Total energy consumption,MWh,302,2024,101,04Google.pdf,environmental,total_energy_consumption_MWh
+04Google,2024,Renewable energy usage (%),%,100,2024,101,04Google.pdf,environmental,renewable_energy_percentage
+04Google,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,305,2024,101,04Google.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+04Google,2024,Water withdrawal and consumption,ML,0,2024,102,04Google.pdf,environmental,water_withdrawal_ML
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,103,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 3 GHG emissions (value chain),tCO2e,3,2024,103,04Google.pdf,environmental,scope_3_emissions_tCO2e
+04Google,2024,Total energy consumption,MWh,2020,2024,103,04Google.pdf,environmental,total_energy_consumption_MWh
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,81900,2024,105,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2,2024,105,04Google.pdf,environmental,scope_2_emissions_tCO2e
+04Google,2024,Scope 3 GHG emissions (value chain),tCO2e,3,2024,105,04Google.pdf,environmental,scope_3_emissions_tCO2e
+04Google,2024,Waste generated,tonnes,14000,2024,105,04Google.pdf,environmental,waste_generated_tonnes
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,1,2024,106,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2,2024,106,04Google.pdf,environmental,scope_2_emissions_tCO2e
+04Google,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,2020,2024,106,04Google.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+04Google,2024,Total energy consumption,MWh,2020,2024,107,04Google.pdf,environmental,total_energy_consumption_MWh
+04Google,2024,Renewable energy usage (%),%,7200,2024,107,04Google.pdf,environmental,renewable_energy_percentage
+04Google,2024,Waste generated,tonnes,21700,2024,109,04Google.pdf,environmental,waste_generated_tonnes
+04Google,2024,Water withdrawal and consumption,ML,5689,2024,110,04Google.pdf,environmental,water_withdrawal_ML
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,1,2024,112,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,11283200,2024,112,04Google.pdf,environmental,scope_2_emissions_tCO2e
+04Google,2024,Scope 3 GHG emissions (value chain),tCO2e,12053000,2024,112,04Google.pdf,environmental,scope_3_emissions_tCO2e
+04Google,2024,Total energy consumption,MWh,10,2024,112,04Google.pdf,environmental,total_energy_consumption_MWh
+04Google,2024,Water withdrawal and consumption,ML,11011,2024,112,04Google.pdf,environmental,water_withdrawal_ML
+04Google,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,7,2024,112,04Google.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,113,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2024,113,04Google.pdf,environmental,scope_2_emissions_tCO2e
+04Google,2024,Scope 3 GHG emissions (value chain),tCO2e,8800,2024,113,04Google.pdf,environmental,scope_3_emissions_tCO2e
+04Google,2024,Waste generated,tonnes,14,2024,113,04Google.pdf,environmental,waste_generated_tonnes
+04Google,2024,Total energy consumption,MWh,24079500,2024,114,04Google.pdf,environmental,total_energy_consumption_MWh
+04Google,2024,Renewable energy usage (%),%,31,2024,114,04Google.pdf,environmental,renewable_energy_percentage
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,116,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 3 GHG emissions (value chain),tCO2e,2,2024,116,04Google.pdf,environmental,scope_3_emissions_tCO2e
+04Google,2024,Total energy consumption,MWh,37,2024,116,04Google.pdf,environmental,total_energy_consumption_MWh
+04Google,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,84,2024,117,04Google.pdf,environmental,scope_2_emissions_tCO2e
+04Google,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,74,2024,117,04Google.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,112,2024,118,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,135,2024,118,04Google.pdf,environmental,scope_2_emissions_tCO2e
+04Google,2024,Scope 3 GHG emissions (value chain),tCO2e,118,2024,118,04Google.pdf,environmental,scope_3_emissions_tCO2e
+04Google,2024,Total energy consumption,MWh,97,2024,118,04Google.pdf,environmental,total_energy_consumption_MWh
+04Google,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,2019,2024,118,04Google.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+04Google,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,119,04Google.pdf,environmental,scope_1_emissions_tCO2e
+04Google,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,141,2024,119,04Google.pdf,environmental,scope_2_emissions_tCO2e
+04Google,2024,Scope 3 GHG emissions (value chain),tCO2e,1,2024,119,04Google.pdf,environmental,scope_3_emissions_tCO2e
+04Google,2024,Renewable energy usage (%),%,140,2024,119,04Google.pdf,environmental,renewable_energy_percentage
+04Google,2024,Water withdrawal and consumption,ML,165,2024,119,04Google.pdf,environmental,water_withdrawal_ML
+05awi,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,3,05awi.pdf,environmental,scope_1_emissions_tCO2e
+05awi,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,5,05awi.pdf,environmental,scope_1_emissions_tCO2e
+05awi,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,7,05awi.pdf,environmental,scope_1_emissions_tCO2e
+05awi,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,9,05awi.pdf,environmental,scope_1_emissions_tCO2e
+05awi,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,23,2024,9,05awi.pdf,environmental,scope_2_emissions_tCO2e
+05awi,2024,Total energy consumption,MWh,15,2024,13,05awi.pdf,environmental,total_energy_consumption_MWh
+05awi,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,17,05awi.pdf,environmental,scope_1_emissions_tCO2e
+05awi,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,21,05awi.pdf,environmental,scope_1_emissions_tCO2e
+05awi,2024,Renewable energy usage (%),%,2019,2024,21,05awi.pdf,environmental,renewable_energy_percentage
+05awi,2024,Waste generated,tonnes,2,2024,21,05awi.pdf,environmental,waste_generated_tonnes
+05awi,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,24,05awi.pdf,environmental,scope_1_emissions_tCO2e
+05awi,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2,2024,24,05awi.pdf,environmental,scope_2_emissions_tCO2e
+05awi,2024,Renewable energy usage (%),%,2,2024,24,05awi.pdf,environmental,renewable_energy_percentage
+05awi,2024,Waste generated,tonnes,2024,2024,26,05awi.pdf,environmental,waste_generated_tonnes
+05awi,2024,Health and safety incident rate (TRIR/LTIR),rate,19,2024,34,05awi.pdf,social,health_and_safety_incident_rate_TRIR
+05awi,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,44,05awi.pdf,environmental,scope_1_emissions_tCO2e
+05awi,2024,Climate risk disclosures (TCFD compliance),boolean,TRUE,2024,44,05awi.pdf,environmental,climate_risk_disclosures
+05awi,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,47,05awi.pdf,environmental,scope_1_emissions_tCO2e
+05awi,2024,Renewable energy usage (%),%,2030,2024,47,05awi.pdf,environmental,renewable_energy_percentage
+05awi,2024,Scope 1 GHG emissions (direct),tCO2e,214000,2024,48,05awi.pdf,environmental,scope_1_emissions_tCO2e
+05awi,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,108000,2024,48,05awi.pdf,environmental,scope_2_emissions_tCO2e
+05awi,2024,Scope 3 GHG emissions (value chain),tCO2e,1495000,2024,48,05awi.pdf,environmental,scope_3_emissions_tCO2e
+05awi,2024,Total energy consumption,MWh,1179000,2024,48,05awi.pdf,environmental,total_energy_consumption_MWh
+05awi,2024,Renewable energy usage (%),%,0,2024,48,05awi.pdf,environmental,renewable_energy_percentage
+05awi,2024,Waste generated,tonnes,21180,2024,48,05awi.pdf,environmental,waste_generated_tonnes
+05awi,2024,Health and safety incident rate (TRIR/LTIR),rate,1.62,2024,49,05awi.pdf,social,health_and_safety_incident_rate_TRIR
+05awi,2024,Independent directors (%),%,88,2024,49,05awi.pdf,governance,independent_directors_percentage
+05awi,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,50,05awi.pdf,environmental,scope_1_emissions_tCO2e
+05awi,2024,Total energy consumption,MWh,302,2024,54,05awi.pdf,environmental,total_energy_consumption_MWh
+05awi,2024,Water withdrawal and consumption,ML,304,2024,54,05awi.pdf,environmental,water_withdrawal_ML
+05awi,2024,Scope 1 GHG emissions (direct),tCO2e,305,2024,55,05awi.pdf,environmental,scope_1_emissions_tCO2e
+05awi,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,305,2024,55,05awi.pdf,environmental,scope_2_emissions_tCO2e
+05awi,2024,Waste generated,tonnes,306,2024,55,05awi.pdf,environmental,waste_generated_tonnes
+05awi,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,305,2024,55,05awi.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+05awi,2024,Scope 1 GHG emissions (direct),tCO2e,202000,2024,60,05awi.pdf,environmental,scope_1_emissions_tCO2e
+05awi,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,83000,2024,60,05awi.pdf,environmental,scope_2_emissions_tCO2e
+05awi,2024,Waste generated,a,150,2024,61,05awi.pdf,environmental,waste_generated_tonnes
+05awi,2024,Health and safety incident rate (TRIR/LTIR),rate,1,2024,61,05awi.pdf,social,health_and_safety_incident_rate_TRIR
+05awi,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,65,05awi.pdf,environmental,scope_1_emissions_tCO2e
+05awi,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2024,65,05awi.pdf,environmental,scope_2_emissions_tCO2e
+05awi,2024,Renewable energy usage (%),%,2030,2024,65,05awi.pdf,environmental,renewable_energy_percentage
+05awi,2024,Climate risk disclosures (TCFD compliance),boolean,TRUE,2024,65,05awi.pdf,environmental,climate_risk_disclosures
+05awi,2024,Renewable energy usage (%),%,2030,2024,67,05awi.pdf,environmental,renewable_energy_percentage
+06awi,2023,Employee engagement score,score,2024,2023,3,06awi.pdf,social,employee_engagement_score
+06awi,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,4,06awi.pdf,environmental,scope_1_emissions_tCO2e
+06awi,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,6,06awi.pdf,environmental,scope_1_emissions_tCO2e
+06awi,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,8,06awi.pdf,environmental,scope_1_emissions_tCO2e
+06awi,2023,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,80,2023,8,06awi.pdf,environmental,scope_2_emissions_tCO2e
+06awi,2023,Total energy consumption,MWh,2023,2023,12,06awi.pdf,environmental,total_energy_consumption_MWh
+06awi,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,15,06awi.pdf,environmental,scope_1_emissions_tCO2e
+06awi,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,18,06awi.pdf,environmental,scope_1_emissions_tCO2e
+06awi,2023,Renewable energy usage (%),%,30,2023,18,06awi.pdf,environmental,renewable_energy_percentage
+06awi,2023,Waste generated,tonnes,50,2023,18,06awi.pdf,environmental,waste_generated_tonnes
+06awi,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,21,06awi.pdf,environmental,scope_1_emissions_tCO2e
+06awi,2023,Renewable energy usage (%),%,2019,2023,21,06awi.pdf,environmental,renewable_energy_percentage
+06awi,2023,Waste generated,tonnes,96,2023,22,06awi.pdf,environmental,waste_generated_tonnes
+06awi,2023,Total energy consumption,MWh,2017,2023,24,06awi.pdf,environmental,total_energy_consumption_MWh
+06awi,2023,Health and safety incident rate (TRIR/LTIR),rate,71,2023,29,06awi.pdf,social,health_and_safety_incident_rate_TRIR
+06awi,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,37,06awi.pdf,environmental,scope_1_emissions_tCO2e
+06awi,2023,Climate risk disclosures (TCFD compliance),boolean,TRUE,2023,37,06awi.pdf,environmental,climate_risk_disclosures
+06awi,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,40,06awi.pdf,environmental,scope_1_emissions_tCO2e
+06awi,2023,Renewable energy usage (%),%,100,2023,40,06awi.pdf,environmental,renewable_energy_percentage
+06awi,2023,Scope 1 GHG emissions (direct),tCO2e,214000,2023,41,06awi.pdf,environmental,scope_1_emissions_tCO2e
+06awi,2023,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,108000,2023,41,06awi.pdf,environmental,scope_2_emissions_tCO2e
+06awi,2023,Total energy consumption,MWh,1179000,2023,41,06awi.pdf,environmental,total_energy_consumption_MWh
+06awi,2023,Renewable energy usage (%),%,0,2023,41,06awi.pdf,environmental,renewable_energy_percentage
+06awi,2023,Waste generated,tonnes,21180,2023,41,06awi.pdf,environmental,waste_generated_tonnes
+06awi,2023,Health and safety incident rate (TRIR/LTIR),rate,1.62,2023,42,06awi.pdf,social,health_and_safety_incident_rate_TRIR
+06awi,2023,Independent directors (%),%,88,2023,42,06awi.pdf,governance,independent_directors_percentage
+06awi,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,43,06awi.pdf,environmental,scope_1_emissions_tCO2e
+06awi,2023,Total energy consumption,MWh,302,2023,47,06awi.pdf,environmental,total_energy_consumption_MWh
+06awi,2023,Water withdrawal and consumption,ML,304,2023,47,06awi.pdf,environmental,water_withdrawal_ML
+06awi,2023,Scope 1 GHG emissions (direct),tCO2e,305,2023,48,06awi.pdf,environmental,scope_1_emissions_tCO2e
+06awi,2023,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,305,2023,48,06awi.pdf,environmental,scope_2_emissions_tCO2e
+06awi,2023,Waste generated,tonnes,306,2023,48,06awi.pdf,environmental,waste_generated_tonnes
+06awi,2023,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,305,2023,48,06awi.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+06awi,2023,Scope 1 GHG emissions (direct),tCO2e,198000,2023,53,06awi.pdf,environmental,scope_1_emissions_tCO2e
+06awi,2023,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,86000,2023,53,06awi.pdf,environmental,scope_2_emissions_tCO2e
+06awi,2023,Waste generated,a,150,2023,54,06awi.pdf,environmental,waste_generated_tonnes
+06awi,2023,Health and safety incident rate (TRIR/LTIR),rate,1,2023,54,06awi.pdf,social,health_and_safety_incident_rate_TRIR
+06awi,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,55,06awi.pdf,environmental,scope_1_emissions_tCO2e
+06awi,2023,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2023,55,06awi.pdf,environmental,scope_2_emissions_tCO2e
+06awi,2023,Renewable energy usage (%),%,2030,2023,55,06awi.pdf,environmental,renewable_energy_percentage
+06awi,2023,Climate risk disclosures (TCFD compliance),boolean,TRUE,2023,55,06awi.pdf,environmental,climate_risk_disclosures
+06awi,2023,Renewable energy usage (%),%,2030,2023,57,06awi.pdf,environmental,renewable_energy_percentage
+07infosys,2023,Workforce diversity (% female),%,20000,2023,8,07infosys.pdf,social,workforce_diversity_female_percentage
+07infosys,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,13,07infosys.pdf,environmental,scope_1_emissions_tCO2e
+07infosys,2023,Scope 3 GHG emissions (value chain),tCO2e,2,2023,13,07infosys.pdf,environmental,scope_3_emissions_tCO2e
+07infosys,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,14,07infosys.pdf,environmental,scope_1_emissions_tCO2e
+07infosys,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,15,07infosys.pdf,environmental,scope_1_emissions_tCO2e
+07infosys,2023,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2023,15,07infosys.pdf,environmental,scope_2_emissions_tCO2e
+07infosys,2023,Scope 3 GHG emissions (value chain),tCO2e,9.74,2023,15,07infosys.pdf,environmental,scope_3_emissions_tCO2e
+07infosys,2023,"Carbon intensity (e.g., CO2e per revenue unit)",e,2,2023,15,07infosys.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+07infosys,2023,Total energy consumption,MWh,2024,2023,16,07infosys.pdf,environmental,total_energy_consumption_MWh
+07infosys,2023,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,616,2023,16,07infosys.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+07infosys,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,17,07infosys.pdf,environmental,scope_1_emissions_tCO2e
+07infosys,2023,Scope 3 GHG emissions (value chain),tCO2e,3,2023,18,07infosys.pdf,environmental,scope_3_emissions_tCO2e
+07infosys,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,21,07infosys.pdf,environmental,scope_1_emissions_tCO2e
+07infosys,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,23,07infosys.pdf,environmental,scope_1_emissions_tCO2e
+07infosys,2023,Total energy consumption,MWh,1,2023,23,07infosys.pdf,environmental,total_energy_consumption_MWh
+07infosys,2023,Water withdrawal and consumption,ML,15,2023,26,07infosys.pdf,environmental,water_withdrawal_ML
+07infosys,2023,Water withdrawal and consumption,ML,2024,2023,27,07infosys.pdf,environmental,water_withdrawal_ML
+07infosys,2023,Workforce diversity (% female),%,45,2023,33,07infosys.pdf,social,workforce_diversity_female_percentage
+07infosys,2023,Workforce diversity (% female),%,2030,2023,41,07infosys.pdf,social,workforce_diversity_female_percentage
+07infosys,2023,Workforce diversity (% female),%,44.44,2023,60,07infosys.pdf,social,workforce_diversity_female_percentage
+07infosys,2023,Workforce diversity (% female),%,44.44,2023,61,07infosys.pdf,social,workforce_diversity_female_percentage
+07infosys,2023,Data privacy/security incidents,count,42001,2023,71,07infosys.pdf,governance,data_privacy_incidents
+08icg,2025,Climate risk disclosures (TCFD compliance),boolean,TRUE,2025,10,08icg.pdf,environmental,climate_risk_disclosures
+08icg,2025,Scope 3 GHG emissions (value chain),tCO2e,100,2025,17,08icg.pdf,environmental,scope_3_emissions_tCO2e
+08icg,2025,Scope 1 GHG emissions (direct),tCO2e,5,2025,21,08icg.pdf,environmental,scope_1_emissions_tCO2e
+08icg,2025,Scope 1 GHG emissions (direct),tCO2e,3,2025,22,08icg.pdf,environmental,scope_1_emissions_tCO2e
+08icg,2025,Employee engagement score,score,50,2025,22,08icg.pdf,social,employee_engagement_score
+08icg,2025,Scope 1 GHG emissions (direct),tCO2e,2,2025,23,08icg.pdf,environmental,scope_1_emissions_tCO2e
+08icg,2025,Scope 1 GHG emissions (direct),tCO2e,2,2025,24,08icg.pdf,environmental,scope_1_emissions_tCO2e
+08icg,2025,Scope 1 GHG emissions (direct),tCO2e,2,2025,26,08icg.pdf,environmental,scope_1_emissions_tCO2e
+08icg,2025,Scope 3 GHG emissions (value chain),tCO2e,24,2025,26,08icg.pdf,environmental,scope_3_emissions_tCO2e
+08icg,2025,Total energy consumption,MWh,100,2025,27,08icg.pdf,environmental,total_energy_consumption_MWh
+08icg,2025,Water withdrawal and consumption,ML,14001,2025,27,08icg.pdf,environmental,water_withdrawal_ML
+08icg,2025,Climate risk disclosures (TCFD compliance),boolean,TRUE,2025,36,08icg.pdf,environmental,climate_risk_disclosures
+08icg,2025,Climate risk disclosures (TCFD compliance),boolean,TRUE,2025,39,08icg.pdf,environmental,climate_risk_disclosures
+08icg,2025,Scope 1 GHG emissions (direct),tCO2e,8,2025,47,08icg.pdf,environmental,scope_1_emissions_tCO2e
+08icg,2025,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,5,2025,47,08icg.pdf,environmental,scope_2_emissions_tCO2e
+08icg,2025,Scope 3 GHG emissions (value chain),tCO2e,1.24,2025,47,08icg.pdf,environmental,scope_3_emissions_tCO2e
+08icg,2025,Water withdrawal and consumption,ML,6,2025,47,08icg.pdf,environmental,water_withdrawal_ML
+08icg,2025,Waste generated,tonnes,18,2025,47,08icg.pdf,environmental,waste_generated_tonnes
+08icg,2025,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,683.5,2025,47,08icg.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+08icg,2025,Scope 1 GHG emissions (direct),tCO2e,46,2025,63,08icg.pdf,environmental,scope_1_emissions_tCO2e
+08icg,2025,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,61,2025,63,08icg.pdf,environmental,scope_2_emissions_tCO2e
+08icg,2025,Scope 3 GHG emissions (value chain),tCO2e,61,2025,63,08icg.pdf,environmental,scope_3_emissions_tCO2e
+08icg,2025,Total energy consumption,MWh,46,2025,63,08icg.pdf,environmental,total_energy_consumption_MWh
+08icg,2025,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,61,2025,63,08icg.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+09orsted,2024,Scope 1 GHG emissions (direct),tCO2e,2030,2024,2,09orsted.pdf,environmental,scope_1_emissions_tCO2e
+09orsted,2024,"Carbon intensity (e.g., CO2e per revenue unit)",e,2,2024,2,09orsted.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+10carlyle,2022,Climate risk disclosures (TCFD compliance),boolean,TRUE,2022,7,10carlyle.pdf,environmental,climate_risk_disclosures
+10carlyle,2022,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2,2022,13,10carlyle.pdf,environmental,scope_2_emissions_tCO2e
+10carlyle,2022,Scope 3 GHG emissions (value chain),tCO2e,1.2,2022,13,10carlyle.pdf,environmental,scope_3_emissions_tCO2e
+10carlyle,2022,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,21,2022,13,10carlyle.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+10carlyle,2022,Total energy consumption,MWh,2024,2022,14,10carlyle.pdf,environmental,total_energy_consumption_MWh
+10carlyle,2022,Scope 1 GHG emissions (direct),tCO2e,2,2022,36,10carlyle.pdf,environmental,scope_1_emissions_tCO2e
+10carlyle,2022,Climate risk disclosures (TCFD compliance),boolean,TRUE,2022,36,10carlyle.pdf,environmental,climate_risk_disclosures
+10carlyle,2022,Climate risk disclosures (TCFD compliance),boolean,TRUE,2022,37,10carlyle.pdf,environmental,climate_risk_disclosures
+10carlyle,2022,Scope 1 GHG emissions (direct),tCO2e,2,2022,38,10carlyle.pdf,environmental,scope_1_emissions_tCO2e
+10carlyle,2022,Scope 1 GHG emissions (direct),tCO2e,2,2022,39,10carlyle.pdf,environmental,scope_1_emissions_tCO2e
+10carlyle,2022,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,1,2022,39,10carlyle.pdf,environmental,scope_2_emissions_tCO2e
+10carlyle,2022,Scope 3 GHG emissions (value chain),tCO2e,31,2022,39,10carlyle.pdf,environmental,scope_3_emissions_tCO2e
+10carlyle,2022,Scope 1 GHG emissions (direct),tCO2e,2,2022,40,10carlyle.pdf,environmental,scope_1_emissions_tCO2e
+10carlyle,2022,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2022,40,10carlyle.pdf,environmental,scope_2_emissions_tCO2e
+10carlyle,2022,Scope 3 GHG emissions (value chain),tCO2e,2018,2022,40,10carlyle.pdf,environmental,scope_3_emissions_tCO2e
+10carlyle,2022,Waste generated,tonnes,3.6,2022,40,10carlyle.pdf,environmental,waste_generated_tonnes
+10carlyle,2022,Employee engagement score,score,404,2022,45,10carlyle.pdf,social,employee_engagement_score
+10carlyle,2022,Community investment ($ spent or % of profits),USD,2,2022,54,10carlyle.pdf,social,community_investment_usd
+10carlyle,2022,Total energy consumption,MWh,1,2022,55,10carlyle.pdf,environmental,total_energy_consumption_MWh
+10carlyle,2022,Water withdrawal and consumption,ML,2,2022,55,10carlyle.pdf,environmental,water_withdrawal_ML
+10carlyle,2022,Scope 1 GHG emissions (direct),tCO2e,1,2022,56,10carlyle.pdf,environmental,scope_1_emissions_tCO2e
+10carlyle,2022,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,1,2022,56,10carlyle.pdf,environmental,scope_2_emissions_tCO2e
+10carlyle,2022,Scope 1 GHG emissions (direct),tCO2e,2,2022,57,10carlyle.pdf,environmental,scope_1_emissions_tCO2e
+10carlyle,2022,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2022,57,10carlyle.pdf,environmental,scope_2_emissions_tCO2e
+10carlyle,2022,Scope 3 GHG emissions (value chain),tCO2e,1,2022,57,10carlyle.pdf,environmental,scope_3_emissions_tCO2e
+10carlyle,2022,Waste generated,tonnes,3.6,2022,57,10carlyle.pdf,environmental,waste_generated_tonnes
+10carlyle,2022,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,1,2022,57,10carlyle.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+10carlyle,2022,Independent directors (%),%,2,2022,63,10carlyle.pdf,governance,independent_directors_percentage
+10carlyle,2022,Scope 1 GHG emissions (direct),MT,1139,2022,65,10carlyle.pdf,environmental,scope_1_emissions_tCO2e
+10carlyle,2022,Scope 2 GHG emissions (indirect from purchased energy),MT,2719,2022,65,10carlyle.pdf,environmental,scope_2_emissions_tCO2e
+10carlyle,2022,Scope 3 GHG emissions (value chain),MT,20568,2022,65,10carlyle.pdf,environmental,scope_3_emissions_tCO2e
+10carlyle,2022,Climate risk disclosures (TCFD compliance),boolean,TRUE,2022,65,10carlyle.pdf,environmental,climate_risk_disclosures
+10carlyle,2022,Community investment ($ spent or % of profits),USD,2024,2022,66,10carlyle.pdf,social,community_investment_usd
+10carlyle,2022,Climate risk disclosures (TCFD compliance),boolean,TRUE,2022,67,10carlyle.pdf,environmental,climate_risk_disclosures
+11BAC,2024,Community investment ($ spent or % of profits),USD,1144,2024,9,11BAC.pdf,social,community_investment_usd
+11BAC,2024,Community investment ($ spent or % of profits),USD,2024,2024,13,11BAC.pdf,social,community_investment_usd
+11BAC,2024,Employee engagement score,score,2024,2024,27,11BAC.pdf,social,employee_engagement_score
+11BAC,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,31,11BAC.pdf,environmental,scope_1_emissions_tCO2e
+11BAC,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2024,31,11BAC.pdf,environmental,scope_2_emissions_tCO2e
+11BAC,2024,Scope 3 GHG emissions (value chain),b,410,2024,31,11BAC.pdf,environmental,scope_3_emissions_tCO2e
+11BAC,2024,Water withdrawal and consumption,ML,2024,2024,31,11BAC.pdf,environmental,water_withdrawal_ML
+11BAC,2024,Climate risk disclosures (TCFD compliance),boolean,TRUE,2024,31,11BAC.pdf,environmental,climate_risk_disclosures
+12BAC,2023,Employee engagement score,score,60,2023,3,12BAC.pdf,social,employee_engagement_score
+12BAC,2023,Employee engagement score,score,87,2023,11,12BAC.pdf,social,employee_engagement_score
+12BAC,2023,Community investment ($ spent or % of profits),USD,2023,2023,27,12BAC.pdf,social,community_investment_usd
+12BAC,2023,Community investment ($ spent or % of profits),USD,42,2023,44,12BAC.pdf,social,community_investment_usd
+12BAC,2023,Workforce diversity (% female),%,50,2023,58,12BAC.pdf,social,workforce_diversity_female_percentage
+12BAC,2023,Employee turnover rate,%,184000,2023,62,12BAC.pdf,social,employee_turnover_rate_percentage
+12BAC,2023,Employee engagement score,K,184,2023,62,12BAC.pdf,social,employee_engagement_score
+12BAC,2023,Workforce diversity (% female),%,55,2023,63,12BAC.pdf,social,workforce_diversity_female_percentage
+12BAC,2023,Workforce diversity (% female),%,8,2023,65,12BAC.pdf,social,workforce_diversity_female_percentage
+12BAC,2023,Training hours per employee,hours,32,2023,65,12BAC.pdf,social,training_hours_per_employee
+12BAC,2023,Scope 1 GHG emissions (direct),tCO2e,2,2023,71,12BAC.pdf,environmental,scope_1_emissions_tCO2e
+12BAC,2023,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2022,2023,71,12BAC.pdf,environmental,scope_2_emissions_tCO2e
+12BAC,2023,Scope 3 GHG emissions (value chain),tCO2e,1,2023,71,12BAC.pdf,environmental,scope_3_emissions_tCO2e
+12BAC,2023,Climate risk disclosures (TCFD compliance),boolean,TRUE,2023,71,12BAC.pdf,environmental,climate_risk_disclosures
+12BAC,2023,Water withdrawal and consumption,ML,2022,2023,72,12BAC.pdf,environmental,water_withdrawal_ML
+12BAC,2023,Community investment ($ spent or % of profits),USD,2,2023,73,12BAC.pdf,social,community_investment_usd
+12BAC,2023,Data privacy/security incidents,count,2019,2023,81,12BAC.pdf,governance,data_privacy_incidents
+12BAC,2023,Climate risk disclosures (TCFD compliance),boolean,TRUE,2023,137,12BAC.pdf,environmental,climate_risk_disclosures
+13BAC,2022,Employee engagement score,score,2015,2022,5,13BAC.pdf,social,employee_engagement_score
+13BAC,2022,Community investment ($ spent or % of profits),USD,2022,2022,7,13BAC.pdf,social,community_investment_usd
+13BAC,2022,Community investment ($ spent or % of profits),USD,2022,2022,25,13BAC.pdf,social,community_investment_usd
+13BAC,2022,Workforce diversity (% female),%,2000,2022,38,13BAC.pdf,social,workforce_diversity_female_percentage
+13BAC,2022,Supplier diversity metrics,%,2,2022,43,13BAC.pdf,social,supplier_diversity_percentage
+13BAC,2022,Employee turnover rate,%,2022,2022,56,13BAC.pdf,social,employee_turnover_rate_percentage
+13BAC,2022,Workforce diversity (% female),%,55,2022,57,13BAC.pdf,social,workforce_diversity_female_percentage
+13BAC,2022,Workforce diversity (% female),%,13,2022,59,13BAC.pdf,social,workforce_diversity_female_percentage
+13BAC,2022,Training hours per employee,hours,53,2022,59,13BAC.pdf,social,training_hours_per_employee
+13BAC,2022,Community investment ($ spent or % of profits),USD,2022,2022,61,13BAC.pdf,social,community_investment_usd
+13BAC,2022,Scope 1 GHG emissions (direct),tCO2e,2,2022,65,13BAC.pdf,environmental,scope_1_emissions_tCO2e
+13BAC,2022,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2021,2022,65,13BAC.pdf,environmental,scope_2_emissions_tCO2e
+13BAC,2022,Scope 3 GHG emissions (value chain),tCO2e,1,2022,65,13BAC.pdf,environmental,scope_3_emissions_tCO2e
+13BAC,2022,Climate risk disclosures (TCFD compliance),boolean,TRUE,2022,65,13BAC.pdf,environmental,climate_risk_disclosures
+13BAC,2022,Water withdrawal and consumption,ML,2021,2022,66,13BAC.pdf,environmental,water_withdrawal_ML
+13BAC,2022,Employee turnover rate,%,1,2022,67,13BAC.pdf,social,employee_turnover_rate_percentage
+13BAC,2022,Community investment ($ spent or % of profits),USD,2,2022,67,13BAC.pdf,social,community_investment_usd
+13BAC,2022,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,2019,2022,131,13BAC.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+14Amazon,2024,Waste generated,tonnes,1.4,2024,6,14Amazon.pdf,environmental,waste_generated_tonnes
+14Amazon,2024,Health and safety incident rate (TRIR/LTIR),rate,84,2024,7,14Amazon.pdf,social,health_and_safety_incident_rate_TRIR
+14Amazon,2024,Scope 1 GHG emissions (direct),tCO2e,34,2024,9,14Amazon.pdf,environmental,scope_1_emissions_tCO2e
+14Amazon,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2024,9,14Amazon.pdf,environmental,scope_2_emissions_tCO2e
+14Amazon,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,2023,2024,9,14Amazon.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+14Amazon,2024,Scope 1 GHG emissions (direct),tCO2e,6,2024,10,14Amazon.pdf,environmental,scope_1_emissions_tCO2e
+14Amazon,2024,Total energy consumption,MWh,46,2024,10,14Amazon.pdf,environmental,total_energy_consumption_MWh
+14Amazon,2024,Total energy consumption,MWh,92,2024,11,14Amazon.pdf,environmental,total_energy_consumption_MWh
+14Amazon,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,13,14Amazon.pdf,environmental,scope_1_emissions_tCO2e
+14Amazon,2024,Scope 3 GHG emissions (value chain),tCO2e,17000,2024,14,14Amazon.pdf,environmental,scope_3_emissions_tCO2e
+14Amazon,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,15,14Amazon.pdf,environmental,scope_1_emissions_tCO2e
+14Amazon,2024,Waste generated,tonnes,2024,2024,19,14Amazon.pdf,environmental,waste_generated_tonnes
+14Amazon,2024,Health and safety incident rate (TRIR/LTIR),rate,79,2024,40,14Amazon.pdf,social,health_and_safety_incident_rate_TRIR
+14Amazon,2024,Health and safety incident rate (TRIR/LTIR),rate,65,2024,41,14Amazon.pdf,social,health_and_safety_incident_rate_TRIR
+14Amazon,2024,Data privacy/security incidents,count,4,2024,47,14Amazon.pdf,governance,data_privacy_incidents
+14Amazon,2024,Scope 1 GHG emissions (direct),tCO2e,5.76,2024,50,14Amazon.pdf,environmental,scope_1_emissions_tCO2e
+14Amazon,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,5.5,2024,50,14Amazon.pdf,environmental,scope_2_emissions_tCO2e
+14Amazon,2024,Scope 3 GHG emissions (value chain),tCO2e,39.91,2024,50,14Amazon.pdf,environmental,scope_3_emissions_tCO2e
+14Amazon,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,1,2024,50,14Amazon.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+14Amazon,2024,Total energy consumption,MWh,52,2024,55,14Amazon.pdf,environmental,total_energy_consumption_MWh
+14Amazon,2024,Water withdrawal and consumption,ML,46,2024,55,14Amazon.pdf,environmental,water_withdrawal_ML
+14Amazon,2024,Waste generated,tonnes,41,2024,55,14Amazon.pdf,environmental,waste_generated_tonnes
+14Amazon,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,41,2024,55,14Amazon.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+15bp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,3,15bp.pdf,environmental,scope_1_emissions_tCO2e
+15bp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,4,15bp.pdf,environmental,scope_1_emissions_tCO2e
+15bp,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,2050,2024,4,15bp.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+15bp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,6,15bp.pdf,environmental,scope_1_emissions_tCO2e
+15bp,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,41,2024,6,15bp.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+15bp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,12,15bp.pdf,environmental,scope_1_emissions_tCO2e
+15bp,2024,Employee engagement score,score,68,2024,12,15bp.pdf,social,employee_engagement_score
+15bp,2024,Human rights policy compliance,boolean,TRUE,2024,13,15bp.pdf,social,human_rights_policy_compliance
+15bp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,19,15bp.pdf,environmental,scope_1_emissions_tCO2e
+15bp,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,40,2024,19,15bp.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+15bp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,20,15bp.pdf,environmental,scope_1_emissions_tCO2e
+15bp,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2025,2024,20,15bp.pdf,environmental,scope_2_emissions_tCO2e
+15bp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,21,15bp.pdf,environmental,scope_1_emissions_tCO2e
+15bp,2024,Total energy consumption,MtCOe,0.1,2024,21,15bp.pdf,environmental,total_energy_consumption_MWh
+15bp,2024,Scope 3 GHG emissions (value chain),gCO,79,2024,23,15bp.pdf,environmental,scope_3_emissions_tCO2e
+15bp,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,2016,2024,23,15bp.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+15bp,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,2,2024,24,15bp.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+15bp,2024,Scope 3 GHG emissions (value chain),tCO2e,11,2024,26,15bp.pdf,environmental,scope_3_emissions_tCO2e
+15bp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,27,15bp.pdf,environmental,scope_1_emissions_tCO2e
+15bp,2024,Scope 3 GHG emissions (value chain),tCO2e,61,2024,27,15bp.pdf,environmental,scope_3_emissions_tCO2e
+15bp,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,2019,2024,27,15bp.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+15bp,2024,Workforce diversity (% female),%,38,2024,30,15bp.pdf,social,workforce_diversity_female_percentage
+15bp,2024,Water withdrawal and consumption,ML,20,2024,37,15bp.pdf,environmental,water_withdrawal_ML
+15bp,2024,Climate risk disclosures (TCFD compliance),boolean,TRUE,2024,41,15bp.pdf,environmental,climate_risk_disclosures
+15bp,2024,Supplier diversity metrics,%,29,2024,43,15bp.pdf,social,supplier_diversity_percentage
+15bp,2024,Climate risk disclosures (TCFD compliance),boolean,TRUE,2024,47,15bp.pdf,environmental,climate_risk_disclosures
+15bp,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,1,2024,48,15bp.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+15bp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,49,15bp.pdf,environmental,scope_1_emissions_tCO2e
+15bp,2024,Scope 3 GHG emissions (value chain),tCO2e,11,2024,49,15bp.pdf,environmental,scope_3_emissions_tCO2e
+15bp,2024,Scope 1 GHG emissions (direct),e,2,2024,50,15bp.pdf,environmental,scope_1_emissions_tCO2e
+15bp,2024,Scope 2 GHG emissions (indirect from purchased energy),e,2,2024,50,15bp.pdf,environmental,scope_2_emissions_tCO2e
+15bp,2024,Total energy consumption,MWh,129872,2024,50,15bp.pdf,environmental,total_energy_consumption_MWh
+15bp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,52,15bp.pdf,environmental,scope_1_emissions_tCO2e
+15bp,2024,Water withdrawal and consumption,ML,2050,2024,52,15bp.pdf,environmental,water_withdrawal_ML
+16hsbc,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,15,2024,2,16hsbc.pdf,environmental,scope_2_emissions_tCO2e
+16hsbc,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,11,16hsbc.pdf,environmental,scope_1_emissions_tCO2e
+16hsbc,2024,Scope 3 GHG emissions (value chain),e,2,2024,11,16hsbc.pdf,environmental,scope_3_emissions_tCO2e
+16hsbc,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,1,2024,11,16hsbc.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+16hsbc,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,12,16hsbc.pdf,environmental,scope_1_emissions_tCO2e
+16hsbc,2024,Scope 3 GHG emissions (value chain),e,2,2024,12,16hsbc.pdf,environmental,scope_3_emissions_tCO2e
+16hsbc,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,4,2024,12,16hsbc.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+16hsbc,2024,Scope 1 GHG emissions (direct),e,2,2024,14,16hsbc.pdf,environmental,scope_1_emissions_tCO2e
+16hsbc,2024,Scope 2 GHG emissions (indirect from purchased energy),e,2,2024,14,16hsbc.pdf,environmental,scope_2_emissions_tCO2e
+16hsbc,2024,Scope 3 GHG emissions (value chain),tCO2e,1,2024,14,16hsbc.pdf,environmental,scope_3_emissions_tCO2e
+16hsbc,2024,Scope 1 GHG emissions (direct),e,2,2024,15,16hsbc.pdf,environmental,scope_1_emissions_tCO2e
+16hsbc,2024,Scope 2 GHG emissions (indirect from purchased energy),e,2,2024,15,16hsbc.pdf,environmental,scope_2_emissions_tCO2e
+16hsbc,2024,Scope 3 GHG emissions (value chain),tCO2e,6,2024,15,16hsbc.pdf,environmental,scope_3_emissions_tCO2e
+16hsbc,2024,Total energy consumption,s,0,2024,15,16hsbc.pdf,environmental,total_energy_consumption_MWh
+16hsbc,2024,Renewable energy usage (%),s,0,2024,15,16hsbc.pdf,environmental,renewable_energy_percentage
+16hsbc,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,1,2024,15,16hsbc.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+16hsbc,2024,Water withdrawal and consumption,ML,3,2024,16,16hsbc.pdf,environmental,water_withdrawal_ML
+16hsbc,2024,Waste generated,tonnes,12,2024,16,16hsbc.pdf,environmental,waste_generated_tonnes
+16hsbc,2024,Waste recycled (%),%,6,2024,16,16hsbc.pdf,environmental,waste_recycled_percentage
+16hsbc,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2024,2024,17,16hsbc.pdf,environmental,scope_2_emissions_tCO2e
+16hsbc,2024,Renewable energy usage (%),%,1181,2024,17,16hsbc.pdf,environmental,renewable_energy_percentage
+16hsbc,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2022,2024,18,16hsbc.pdf,environmental,scope_2_emissions_tCO2e
+16hsbc,2024,Total energy consumption,MWh,2,2024,18,16hsbc.pdf,environmental,total_energy_consumption_MWh
+16hsbc,2024,Water withdrawal and consumption,ML,7,2024,19,16hsbc.pdf,environmental,water_withdrawal_ML
+16hsbc,2024,Workforce diversity (% female),%,4,2024,20,16hsbc.pdf,social,workforce_diversity_female_percentage
+16hsbc,2024,Gender pay gap,%,5,2024,29,16hsbc.pdf,social,gender_pay_gap_percentage
+16hsbc,2024,Employee engagement score,score,3,2024,30,16hsbc.pdf,social,employee_engagement_score
+16hsbc,2024,Employee engagement score,score,2024,2024,32,16hsbc.pdf,social,employee_engagement_score
+16hsbc,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,38,16hsbc.pdf,environmental,scope_1_emissions_tCO2e
+16hsbc,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2024,38,16hsbc.pdf,environmental,scope_2_emissions_tCO2e
+16hsbc,2024,Scope 3 GHG emissions (value chain),b,410,2024,38,16hsbc.pdf,environmental,scope_3_emissions_tCO2e
+16hsbc,2024,Scope 1 GHG emissions (direct),tCO2e,3,2024,40,16hsbc.pdf,environmental,scope_1_emissions_tCO2e
+16hsbc,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2024,40,16hsbc.pdf,environmental,scope_2_emissions_tCO2e
+16hsbc,2024,Scope 3 GHG emissions (value chain),tCO2e,1,2024,40,16hsbc.pdf,environmental,scope_3_emissions_tCO2e
+16hsbc,2024,Water withdrawal and consumption,ML,2024,2024,40,16hsbc.pdf,environmental,water_withdrawal_ML
+16hsbc,2024,Climate risk disclosures (TCFD compliance),boolean,TRUE,2024,40,16hsbc.pdf,environmental,climate_risk_disclosures
+16hsbc,2024,Community investment ($ spent or % of profits),USD,2024,2024,41,16hsbc.pdf,social,community_investment_usd
+17lightsource,2024,Community investment ($ spent or % of profits),USD,35,2024,2,17lightsource.pdf,social,community_investment_usd
+17lightsource,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,5,17lightsource.pdf,environmental,scope_1_emissions_tCO2e
+17lightsource,2024,Scope 3 GHG emissions (value chain),tCO2e,2021,2024,5,17lightsource.pdf,environmental,scope_3_emissions_tCO2e
+17lightsource,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,15,17lightsource.pdf,environmental,scope_1_emissions_tCO2e
+17lightsource,2024,Renewable energy usage (%),%,2024,2024,19,17lightsource.pdf,environmental,renewable_energy_percentage
+17lightsource,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,21,17lightsource.pdf,environmental,scope_1_emissions_tCO2e
+17lightsource,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,41,2024,21,17lightsource.pdf,environmental,scope_2_emissions_tCO2e
+17lightsource,2024,Scope 3 GHG emissions (value chain),tCO2e,1,2024,21,17lightsource.pdf,environmental,scope_3_emissions_tCO2e
+17lightsource,2024,Renewable energy usage (%),%,3,2024,21,17lightsource.pdf,environmental,renewable_energy_percentage
+17lightsource,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,22,17lightsource.pdf,environmental,scope_1_emissions_tCO2e
+17lightsource,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,1,2024,22,17lightsource.pdf,environmental,scope_2_emissions_tCO2e
+17lightsource,2024,Scope 3 GHG emissions (value chain),tCO2e,6,2024,22,17lightsource.pdf,environmental,scope_3_emissions_tCO2e
+17lightsource,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,2021,2024,22,17lightsource.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+17lightsource,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,23,17lightsource.pdf,environmental,scope_1_emissions_tCO2e
+17lightsource,2024,Scope 3 GHG emissions (value chain),tCO2e,1,2024,23,17lightsource.pdf,environmental,scope_3_emissions_tCO2e
+17lightsource,2024,Renewable energy usage (%),%,3,2024,23,17lightsource.pdf,environmental,renewable_energy_percentage
+17lightsource,2024,Scope 3 GHG emissions (value chain),tCO2e,1,2024,24,17lightsource.pdf,environmental,scope_3_emissions_tCO2e
+17lightsource,2024,Community investment ($ spent or % of profits),USD,35,2024,25,17lightsource.pdf,social,community_investment_usd
+17lightsource,2024,Community investment ($ spent or % of profits),USD,2024,2024,36,17lightsource.pdf,social,community_investment_usd
+17lightsource,2024,Human rights policy compliance,boolean,TRUE,2024,40,17lightsource.pdf,social,human_rights_policy_compliance
+17lightsource,2024,Scope 1 GHG emissions (direct),e,2,2024,47,17lightsource.pdf,environmental,scope_1_emissions_tCO2e
+17lightsource,2024,Scope 2 GHG emissions (indirect from purchased energy),e,2,2024,47,17lightsource.pdf,environmental,scope_2_emissions_tCO2e
+17lightsource,2024,Scope 3 GHG emissions (value chain),tCO2e,1,2024,47,17lightsource.pdf,environmental,scope_3_emissions_tCO2e
+17lightsource,2024,Waste generated,tonnes,4144,2024,47,17lightsource.pdf,environmental,waste_generated_tonnes
+17lightsource,2024,"Carbon intensity (e.g., CO2e per revenue unit)",e,2,2024,47,17lightsource.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+17lightsource,2024,Scope 1 GHG emissions (direct),tCO2e,305,2024,50,17lightsource.pdf,environmental,scope_1_emissions_tCO2e
+17lightsource,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,305,2024,50,17lightsource.pdf,environmental,scope_2_emissions_tCO2e
+17lightsource,2024,Scope 3 GHG emissions (value chain),tCO2e,305,2024,50,17lightsource.pdf,environmental,scope_3_emissions_tCO2e
+17lightsource,2024,Waste generated,tonnes,306,2024,51,17lightsource.pdf,environmental,waste_generated_tonnes
+17lightsource,2024,Scope 1 GHG emissions (direct),a,110,2024,53,17lightsource.pdf,environmental,scope_1_emissions_tCO2e
+17lightsource,2024,Waste generated,a,150,2024,53,17lightsource.pdf,environmental,waste_generated_tonnes
+17lightsource,2024,Health and safety incident rate (TRIR/LTIR),a,320,2024,54,17lightsource.pdf,social,health_and_safety_incident_rate_TRIR
+18nvidia,2025,Employee turnover rate,%,2000,2025,5,18nvidia.pdf,social,employee_turnover_rate_percentage
+18nvidia,2025,Scope 3 GHG emissions (value chain),tCO2e,1,2025,6,18nvidia.pdf,environmental,scope_3_emissions_tCO2e
+18nvidia,2025,Renewable energy usage (%),%,25,2025,6,18nvidia.pdf,environmental,renewable_energy_percentage
+18nvidia,2025,Employee turnover rate,%,2024,2025,6,18nvidia.pdf,social,employee_turnover_rate_percentage
+18nvidia,2025,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,17640,2025,10,18nvidia.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+18nvidia,2025,Scope 1 GHG emissions (direct),tCO2e,2,2025,11,18nvidia.pdf,environmental,scope_1_emissions_tCO2e
+18nvidia,2025,Scope 3 GHG emissions (value chain),tCO2e,1,2025,11,18nvidia.pdf,environmental,scope_3_emissions_tCO2e
+18nvidia,2025,Renewable energy usage (%),%,3,2025,11,18nvidia.pdf,environmental,renewable_energy_percentage
+18nvidia,2025,Scope 1 GHG emissions (direct),tCO2e,2,2025,12,18nvidia.pdf,environmental,scope_1_emissions_tCO2e
+18nvidia,2025,Scope 3 GHG emissions (value chain),tCO2e,75,2025,12,18nvidia.pdf,environmental,scope_3_emissions_tCO2e
+18nvidia,2025,Total energy consumption,MWh,25,2025,12,18nvidia.pdf,environmental,total_energy_consumption_MWh
+18nvidia,2025,Renewable energy usage (%),%,3,2025,12,18nvidia.pdf,environmental,renewable_energy_percentage
+18nvidia,2025,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,75,2025,12,18nvidia.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+18nvidia,2025,Workforce diversity (% underrepresented groups),%,40.5,2025,15,18nvidia.pdf,social,workforce_diversity_minority_percentage
+18nvidia,2025,Employee turnover rate,%,25,2025,16,18nvidia.pdf,social,employee_turnover_rate_percentage
+18nvidia,2025,Scope 3 GHG emissions (value chain),tCO2e,1,2025,20,18nvidia.pdf,environmental,scope_3_emissions_tCO2e
+18nvidia,2025,Anti-corruption training coverage,%,94,2025,22,18nvidia.pdf,governance,anti_corruption_training_coverage_percentage
+18nvidia,2025,Scope 1 GHG emissions (direct),tCO2e,12,2025,29,18nvidia.pdf,environmental,scope_1_emissions_tCO2e
+18nvidia,2025,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,0,2025,29,18nvidia.pdf,environmental,scope_2_emissions_tCO2e
+18nvidia,2025,Scope 3 GHG emissions (value chain),tCO2e,6912577,2025,29,18nvidia.pdf,environmental,scope_3_emissions_tCO2e
+18nvidia,2025,Waste generated,tonnes,1416,2025,29,18nvidia.pdf,environmental,waste_generated_tonnes
+18nvidia,2025,Scope 1 GHG emissions (direct),tCO2e,2,2025,30,18nvidia.pdf,environmental,scope_1_emissions_tCO2e
+18nvidia,2025,Total energy consumption,MWh,302,2025,30,18nvidia.pdf,environmental,total_energy_consumption_MWh
+18nvidia,2025,Renewable energy usage (%),%,0,2025,30,18nvidia.pdf,environmental,renewable_energy_percentage
+18nvidia,2025,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,1,2025,30,18nvidia.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+18nvidia,2025,Total energy consumption,MWh,2,2025,31,18nvidia.pdf,environmental,total_energy_consumption_MWh
+18nvidia,2025,Waste generated,tonnes,3299,2025,31,18nvidia.pdf,environmental,waste_generated_tonnes
+18nvidia,2025,Waste recycled (%),%,2759,2025,31,18nvidia.pdf,environmental,waste_recycled_percentage
+18nvidia,2025,Water withdrawal and consumption,ML,409814,2025,32,18nvidia.pdf,environmental,water_withdrawal_ML
+18nvidia,2025,Renewable energy usage (%),%,2,2025,39,18nvidia.pdf,environmental,renewable_energy_percentage
+19meta,2024,Scope 3 GHG emissions (value chain),tCO2e,2030,2024,3,19meta.pdf,environmental,scope_3_emissions_tCO2e
+19meta,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,17,19meta.pdf,environmental,scope_1_emissions_tCO2e
+19meta,2024,Scope 3 GHG emissions (value chain),tCO2e,2031,2024,17,19meta.pdf,environmental,scope_3_emissions_tCO2e
+19meta,2024,Scope 1 GHG emissions (direct),tCO2e,48952,2024,21,19meta.pdf,environmental,scope_1_emissions_tCO2e
+19meta,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,1658,2024,21,19meta.pdf,environmental,scope_2_emissions_tCO2e
+19meta,2024,Scope 3 GHG emissions (value chain),tCO2e,7445621,2024,21,19meta.pdf,environmental,scope_3_emissions_tCO2e
+19meta,2024,Waste generated,tonnes,38468,2024,21,19meta.pdf,environmental,waste_generated_tonnes
+19meta,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,23,19meta.pdf,environmental,scope_1_emissions_tCO2e
+19meta,2024,Scope 3 GHG emissions (value chain),tCO2e,2031,2024,23,19meta.pdf,environmental,scope_3_emissions_tCO2e
+19meta,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,2031,2024,23,19meta.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+19meta,2024,Scope 3 GHG emissions (value chain),tCO2e,1.4,2024,26,19meta.pdf,environmental,scope_3_emissions_tCO2e
+19meta,2024,Water withdrawal and consumption,ML,2017,2024,49,19meta.pdf,environmental,water_withdrawal_ML
+19meta,2024,Water withdrawal and consumption,ML,1990,2024,51,19meta.pdf,environmental,water_withdrawal_ML
+19meta,2024,Total energy consumption,MWh,50,2024,52,19meta.pdf,environmental,total_energy_consumption_MWh
+19meta,2024,Waste generated,tonnes,35,2024,52,19meta.pdf,environmental,waste_generated_tonnes
+19meta,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,52,2024,52,19meta.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+19meta,2024,Scope 1 GHG emissions (direct),tCO2e,44000,2024,78,19meta.pdf,environmental,scope_1_emissions_tCO2e
+19meta,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,208000,2024,78,19meta.pdf,environmental,scope_2_emissions_tCO2e
+19meta,2024,Scope 3 GHG emissions (value chain),tCO2e,4078000,2024,78,19meta.pdf,environmental,scope_3_emissions_tCO2e
+19meta,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,79,19meta.pdf,environmental,scope_1_emissions_tCO2e
+19meta,2024,Scope 2 GHG emissions (indirect from purchased energy),e,2,2024,80,19meta.pdf,environmental,scope_2_emissions_tCO2e
+19meta,2024,Scope 3 GHG emissions (value chain),e,2,2024,81,19meta.pdf,environmental,scope_3_emissions_tCO2e
+19meta,2024,Waste generated,tonnes,4000,2024,81,19meta.pdf,environmental,waste_generated_tonnes
+19meta,2024,Total energy consumption,MWh,2019,2024,83,19meta.pdf,environmental,total_energy_consumption_MWh
+19meta,2024,Water withdrawal and consumption,ML,2019,2024,85,19meta.pdf,environmental,water_withdrawal_ML
+19meta,2024,Water withdrawal and consumption,ML,2019,2024,86,19meta.pdf,environmental,water_withdrawal_ML
+19meta,2024,Water withdrawal and consumption,ML,2019,2024,87,19meta.pdf,environmental,water_withdrawal_ML
+19meta,2024,Water withdrawal and consumption,ML,31924,2024,88,19meta.pdf,environmental,water_withdrawal_ML
+19meta,2024,Scope 1 GHG emissions (direct),tCO2e,160,2024,89,19meta.pdf,environmental,scope_1_emissions_tCO2e
+19meta,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,5,2024,89,19meta.pdf,environmental,scope_2_emissions_tCO2e
+19meta,2024,Scope 3 GHG emissions (value chain),tCO2e,2021,2024,89,19meta.pdf,environmental,scope_3_emissions_tCO2e
+19meta,2024,Total energy consumption,MWh,2022,2024,89,19meta.pdf,environmental,total_energy_consumption_MWh
+19meta,2024,Water withdrawal and consumption,ML,1724,2024,89,19meta.pdf,environmental,water_withdrawal_ML
+19meta,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,90,19meta.pdf,environmental,scope_1_emissions_tCO2e
+19meta,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,3,2024,90,19meta.pdf,environmental,scope_2_emissions_tCO2e
+19meta,2024,Scope 3 GHG emissions (value chain),tCO2e,1,2024,90,19meta.pdf,environmental,scope_3_emissions_tCO2e
+19meta,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,91,19meta.pdf,environmental,scope_1_emissions_tCO2e
+19meta,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,4,2024,92,19meta.pdf,environmental,scope_2_emissions_tCO2e
+19meta,2024,Scope 3 GHG emissions (value chain),tCO2e,2,2024,92,19meta.pdf,environmental,scope_3_emissions_tCO2e
+19meta,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,93,19meta.pdf,environmental,scope_1_emissions_tCO2e
+19meta,2024,Scope 3 GHG emissions (value chain),tCO2e,2015,2024,93,19meta.pdf,environmental,scope_3_emissions_tCO2e
+19meta,2024,Water withdrawal and consumption,ML,0,2024,93,19meta.pdf,environmental,water_withdrawal_ML
+20hp,2024,Employee engagement score,score,3,2024,2,20hp.pdf,social,employee_engagement_score
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,7,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Renewable energy usage (%),%,2024,2024,7,20hp.pdf,environmental,renewable_energy_percentage
+20hp,2024,Total energy consumption,MWh,13,2024,22,20hp.pdf,environmental,total_energy_consumption_MWh
+20hp,2024,Total energy consumption,MWh,27,2024,29,20hp.pdf,environmental,total_energy_consumption_MWh
+20hp,2024,Waste recycled (%),%,17.3,2024,36,20hp.pdf,environmental,waste_recycled_percentage
+20hp,2024,Waste generated,tonnes,90,2024,38,20hp.pdf,environmental,waste_generated_tonnes
+20hp,2024,Waste recycled (%),%,16,2024,41,20hp.pdf,environmental,waste_recycled_percentage
+20hp,2024,Total energy consumption,MWh,60,2024,44,20hp.pdf,environmental,total_energy_consumption_MWh
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,59,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Scope 2 GHG emissions (indirect from purchased energy),e,2,2024,59,20hp.pdf,environmental,scope_2_emissions_tCO2e
+20hp,2024,Water withdrawal and consumption,ML,2,2024,59,20hp.pdf,environmental,water_withdrawal_ML
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,60,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,41,2024,60,20hp.pdf,environmental,scope_2_emissions_tCO2e
+20hp,2024,Renewable energy usage (%),%,62,2024,60,20hp.pdf,environmental,renewable_energy_percentage
+20hp,2024,Water withdrawal and consumption,ML,38,2024,60,20hp.pdf,environmental,water_withdrawal_ML
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,62,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Scope 3 GHG emissions (value chain),tCO2e,2023,2024,62,20hp.pdf,environmental,scope_3_emissions_tCO2e
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,63,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Scope 3 GHG emissions (value chain),tCO2e,100,2024,63,20hp.pdf,environmental,scope_3_emissions_tCO2e
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,64,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Renewable energy usage (%),%,2040,2024,64,20hp.pdf,environmental,renewable_energy_percentage
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,65,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Scope 3 GHG emissions (value chain),tCO2e,1,2024,65,20hp.pdf,environmental,scope_3_emissions_tCO2e
+20hp,2024,Renewable energy usage (%),%,100,2024,65,20hp.pdf,environmental,renewable_energy_percentage
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,1,2024,66,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,1,2024,66,20hp.pdf,environmental,scope_2_emissions_tCO2e
+20hp,2024,Renewable energy usage (%),%,2.4,2024,66,20hp.pdf,environmental,renewable_energy_percentage
+20hp,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,2.4,2024,66,20hp.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+20hp,2024,Scope 3 GHG emissions (value chain),tCO2e,525,2024,67,20hp.pdf,environmental,scope_3_emissions_tCO2e
+20hp,2024,Total energy consumption,MWh,2024,2024,67,20hp.pdf,environmental,total_energy_consumption_MWh
+20hp,2024,Total energy consumption,MWh,68,2024,68,20hp.pdf,environmental,total_energy_consumption_MWh
+20hp,2024,Renewable energy usage (%),%,74,2024,68,20hp.pdf,environmental,renewable_energy_percentage
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,70,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Scope 3 GHG emissions (value chain),tCO2e,2,2024,70,20hp.pdf,environmental,scope_3_emissions_tCO2e
+20hp,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,10,2024,70,20hp.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+20hp,2024,Renewable energy usage (%),%,2018,2024,71,20hp.pdf,environmental,renewable_energy_percentage
+20hp,2024,Water withdrawal and consumption,ML,0.7,2024,75,20hp.pdf,environmental,water_withdrawal_ML
+20hp,2024,Water withdrawal and consumption,ML,3,2024,77,20hp.pdf,environmental,water_withdrawal_ML
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,83,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,1,2024,83,20hp.pdf,environmental,scope_2_emissions_tCO2e
+20hp,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,1,2024,83,20hp.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,84,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,2,2024,84,20hp.pdf,environmental,scope_2_emissions_tCO2e
+20hp,2024,Scope 3 GHG emissions (value chain),tCO2e,57300,2024,84,20hp.pdf,environmental,scope_3_emissions_tCO2e
+20hp,2024,Waste generated,tonnes,5,2024,84,20hp.pdf,environmental,waste_generated_tonnes
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,202300,2024,85,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,494100,2024,85,20hp.pdf,environmental,scope_2_emissions_tCO2e
+20hp,2024,Water withdrawal and consumption,ML,2227000,2024,85,20hp.pdf,environmental,water_withdrawal_ML
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,86,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Scope 3 GHG emissions (value chain),tCO2e,3,2024,86,20hp.pdf,environmental,scope_3_emissions_tCO2e
+20hp,2024,Water withdrawal and consumption,ML,39000000,2024,86,20hp.pdf,environmental,water_withdrawal_ML
+20hp,2024,Independent directors (%),%,2024,2024,89,20hp.pdf,governance,independent_directors_percentage
+20hp,2024,Human rights policy compliance,boolean,TRUE,2024,93,20hp.pdf,social,human_rights_policy_compliance
+20hp,2024,Scope 3 GHG emissions (value chain),tCO2e,1130,2024,108,20hp.pdf,environmental,scope_3_emissions_tCO2e
+20hp,2024,Total energy consumption,MWh,88,2024,124,20hp.pdf,environmental,total_energy_consumption_MWh
+20hp,2024,Employee engagement score,score,2024,2024,143,20hp.pdf,social,employee_engagement_score
+20hp,2024,Employee turnover rate,%,2023,2024,153,20hp.pdf,social,employee_turnover_rate_percentage
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,160,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,1,2024,160,20hp.pdf,environmental,scope_2_emissions_tCO2e
+20hp,2024,Scope 3 GHG emissions (value chain),tCO2e,1,2024,160,20hp.pdf,environmental,scope_3_emissions_tCO2e
+20hp,2024,Water withdrawal and consumption,ML,2,2024,160,20hp.pdf,environmental,water_withdrawal_ML
+20hp,2024,Waste generated,tonnes,4,2024,160,20hp.pdf,environmental,waste_generated_tonnes
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,7,2024,161,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,8,2024,161,20hp.pdf,environmental,scope_2_emissions_tCO2e
+20hp,2024,Total energy consumption,MWh,1,2024,161,20hp.pdf,environmental,total_energy_consumption_MWh
+20hp,2024,Water withdrawal and consumption,ML,10,2024,161,20hp.pdf,environmental,water_withdrawal_ML
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,62,2024,166,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,62,2024,166,20hp.pdf,environmental,scope_2_emissions_tCO2e
+20hp,2024,Scope 3 GHG emissions (value chain),tCO2e,62,2024,166,20hp.pdf,environmental,scope_3_emissions_tCO2e
+20hp,2024,Total energy consumption,MWh,61,2024,166,20hp.pdf,environmental,total_energy_consumption_MWh
+20hp,2024,Water withdrawal and consumption,ML,74,2024,166,20hp.pdf,environmental,water_withdrawal_ML
+20hp,2024,"Carbon intensity (e.g., CO2e per revenue unit)",tCO2e per million revenue,2024,2024,166,20hp.pdf,environmental,carbon_intensity_tCO2e_per_million_revenue
+20hp,2024,Waste generated,tonnes,31,2024,167,20hp.pdf,environmental,waste_generated_tonnes
+20hp,2024,Total energy consumption,MWh,25,2024,173,20hp.pdf,environmental,total_energy_consumption_MWh
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,175,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Scope 1 GHG emissions (direct),tCO2e,2,2024,176,20hp.pdf,environmental,scope_1_emissions_tCO2e
+20hp,2024,Scope 2 GHG emissions (indirect from purchased energy),tCO2e,23,2024,176,20hp.pdf,environmental,scope_2_emissions_tCO2e
+20hp,2024,Water withdrawal and consumption,ML,35,2024,176,20hp.pdf,environmental,water_withdrawal_ML

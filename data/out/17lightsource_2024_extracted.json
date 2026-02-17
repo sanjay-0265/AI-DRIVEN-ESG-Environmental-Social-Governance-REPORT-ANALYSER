@@ -1,0 +1,18 @@
+{
+  "company_name": "17lightsource",
+  "report_year": 2024,
+  "environmental": {
+    "scope_1_emissions_tCO2e": 2.0,
+    "scope_3_emissions_tCO2e": 2021.0,
+    "renewable_energy_percentage": 2024.0,
+    "scope_2_emissions_tCO2e": 41.0,
+    "carbon_intensity_tCO2e_per_million_revenue": 2021.0,
+    "waste_generated_tonnes": 4144.0
+  },
+  "social": {
+    "community_investment_usd": 35.0,
+    "human_rights_policy_compliance": true,
+    "health_and_safety_incident_rate_TRIR": 320.0
+  },
+  "governance": {}
+}

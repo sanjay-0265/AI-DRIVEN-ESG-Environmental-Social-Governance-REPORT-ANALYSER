@@ -1,0 +1,443 @@
+{
+  "metrics": [
+    {
+      "canonical_name": "Scope 1 GHG emissions (direct)",
+      "aliases": [
+        "Scope 1",
+        "Scope-1",
+        "Direct emissions",
+        "GHG Scope 1"
+      ],
+      "unit_hints": [
+        "tCO2e",
+        "tonnes CO2e",
+        "tons CO2e"
+      ],
+      "category": "environmental",
+      "json_key": "scope_1_emissions_tCO2e",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Scope 2 GHG emissions (indirect from purchased energy)",
+      "aliases": [
+        "Scope 2",
+        "Scope-2",
+        "Indirect emissions (purchased energy)",
+        "GHG Scope 2"
+      ],
+      "unit_hints": [
+        "tCO2e",
+        "tonnes CO2e",
+        "tons CO2e"
+      ],
+      "category": "environmental",
+      "json_key": "scope_2_emissions_tCO2e",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Scope 3 GHG emissions (value chain)",
+      "aliases": [
+        "Scope 3",
+        "Scope-3",
+        "Value chain emissions",
+        "GHG Scope 3"
+      ],
+      "unit_hints": [
+        "tCO2e",
+        "tonnes CO2e",
+        "tons CO2e"
+      ],
+      "category": "environmental",
+      "json_key": "scope_3_emissions_tCO2e",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Total energy consumption",
+      "aliases": [
+        "Total energy use",
+        "Energy consumption",
+        "Energy usage"
+      ],
+      "unit_hints": [
+        "MWh",
+        "GWh",
+        "kWh"
+      ],
+      "category": "environmental",
+      "json_key": "total_energy_consumption_MWh",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Renewable energy usage (%)",
+      "aliases": [
+        "Renewable share",
+        "Renewable electricity",
+        "Renewables share"
+      ],
+      "unit_hints": [
+        "%"
+      ],
+      "category": "environmental",
+      "json_key": "renewable_energy_percentage",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Water withdrawal and consumption",
+      "aliases": [
+        "Water withdrawal",
+        "Water consumed",
+        "Water consumption"
+      ],
+      "unit_hints": [
+        "ML",
+        "m3",
+        "cubic meters",
+        "megaliters"
+      ],
+      "category": "environmental",
+      "json_key": "water_withdrawal_ML",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Waste generated",
+      "aliases": [
+        "Waste generated",
+        "Total waste"
+      ],
+      "unit_hints": [
+        "tonnes",
+        "tons",
+        "t"
+      ],
+      "category": "environmental",
+      "json_key": "waste_generated_tonnes",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Waste recycled (%)",
+      "aliases": [
+        "Recycling rate",
+        "Waste recycled"
+      ],
+      "unit_hints": [
+        "%"
+      ],
+      "category": "environmental",
+      "json_key": "waste_recycled_percentage",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Carbon intensity (e.g., CO2e per revenue unit)",
+      "aliases": [
+        "Carbon intensity",
+        "Emissions intensity"
+      ],
+      "unit_hints": [
+        "tCO2e per million revenue",
+        "tCO2e/$m revenue",
+        "tCO2e per unit revenue"
+      ],
+      "category": "environmental",
+      "json_key": "carbon_intensity_tCO2e_per_million_revenue",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Product lifecycle footprint",
+      "aliases": [
+        "Product life cycle footprint",
+        "Product footprint"
+      ],
+      "unit_hints": [
+        "tCO2e"
+      ],
+      "category": "environmental",
+      "json_key": "product_lifecycle_footprint_tCO2e",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Climate risk disclosures (TCFD compliance)",
+      "aliases": [
+        "TCFD",
+        "Task Force on Climate-related Financial Disclosures",
+        "TCFD-aligned",
+        "TCFD compliant"
+      ],
+      "unit_hints": [
+        "boolean"
+      ],
+      "category": "environmental",
+      "json_key": "climate_risk_disclosures",
+      "boolean": true
+    },
+    {
+      "canonical_name": "Workforce diversity (% female)",
+      "aliases": [
+        "% women",
+        "female representation",
+        "women in workforce"
+      ],
+      "unit_hints": [
+        "%"
+      ],
+      "category": "social",
+      "json_key": "workforce_diversity_female_percentage",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Workforce diversity (% underrepresented groups)",
+      "aliases": [
+        "minority representation",
+        "underrepresented groups"
+      ],
+      "unit_hints": [
+        "%"
+      ],
+      "category": "social",
+      "json_key": "workforce_diversity_minority_percentage",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Gender pay gap",
+      "aliases": [
+        "gender pay gap",
+        "pay gap (gender)"
+      ],
+      "unit_hints": [
+        "%"
+      ],
+      "category": "social",
+      "json_key": "gender_pay_gap_percentage",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Employee turnover rate",
+      "aliases": [
+        "turnover rate",
+        "attrition rate"
+      ],
+      "unit_hints": [
+        "%"
+      ],
+      "category": "social",
+      "json_key": "employee_turnover_rate_percentage",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Training hours per employee",
+      "aliases": [
+        "training hours per employee",
+        "average training hours"
+      ],
+      "unit_hints": [
+        "hours"
+      ],
+      "category": "social",
+      "json_key": "training_hours_per_employee",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Health and safety incident rate (TRIR/LTIR)",
+      "aliases": [
+        "TRIR",
+        "LTIR",
+        "Total Recordable Incident Rate",
+        "Lost Time Incident Rate"
+      ],
+      "unit_hints": [
+        "rate"
+      ],
+      "category": "social",
+      "json_key": "health_and_safety_incident_rate_TRIR",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Community investment ($ spent or % of profits)",
+      "aliases": [
+        "community investment",
+        "CSR spend",
+        "philanthropy"
+      ],
+      "unit_hints": [
+        "USD",
+        "INR",
+        "%"
+      ],
+      "category": "social",
+      "json_key": "community_investment_usd",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Supplier diversity metrics",
+      "aliases": [
+        "supplier diversity"
+      ],
+      "unit_hints": [
+        "%"
+      ],
+      "category": "social",
+      "json_key": "supplier_diversity_percentage",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Human rights policy compliance",
+      "aliases": [
+        "human rights policy",
+        "human rights compliance"
+      ],
+      "unit_hints": [
+        "boolean"
+      ],
+      "category": "social",
+      "json_key": "human_rights_policy_compliance",
+      "boolean": true
+    },
+    {
+      "canonical_name": "Employee engagement score",
+      "aliases": [
+        "engagement score",
+        "employee engagement"
+      ],
+      "unit_hints": [
+        "score",
+        "%"
+      ],
+      "category": "social",
+      "json_key": "employee_engagement_score",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Board diversity (% female)",
+      "aliases": [
+        "female on board",
+        "% women on board"
+      ],
+      "unit_hints": [
+        "%"
+      ],
+      "category": "governance",
+      "json_key": "board_diversity_female_percentage",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Board diversity (% minority)",
+      "aliases": [
+        "minority on board",
+        "% minority on board"
+      ],
+      "unit_hints": [
+        "%"
+      ],
+      "category": "governance",
+      "json_key": "board_diversity_minority_percentage",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Independent directors (%)",
+      "aliases": [
+        "independent directors",
+        "% independent"
+      ],
+      "unit_hints": [
+        "%"
+      ],
+      "category": "governance",
+      "json_key": "independent_directors_percentage",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Executive compensation linked to ESG goals",
+      "aliases": [
+        "executive compensation linked to ESG",
+        "ESG-linked pay",
+        "remuneration tied to ESG"
+      ],
+      "unit_hints": [
+        "%",
+        "boolean"
+      ],
+      "category": "governance",
+      "json_key": "executive_compensation_linked_to_ESG_percentage",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Anti-corruption training coverage",
+      "aliases": [
+        "anti-corruption training",
+        "anti bribery training coverage"
+      ],
+      "unit_hints": [
+        "%"
+      ],
+      "category": "governance",
+      "json_key": "anti_corruption_training_coverage_percentage",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Ethics hotline cases reported",
+      "aliases": [
+        "ethics hotline cases",
+        "whistleblower cases reported"
+      ],
+      "unit_hints": [
+        "count"
+      ],
+      "category": "governance",
+      "json_key": "ethics_hotline_cases_reported",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Ethics hotline cases resolved",
+      "aliases": [
+        "ethics hotline cases resolved",
+        "whistleblower cases resolved"
+      ],
+      "unit_hints": [
+        "count"
+      ],
+      "category": "governance",
+      "json_key": "ethics_hotline_cases_resolved",
+      "boolean": false
+    },
+    {
+      "canonical_name": "Shareholder rights policies",
+      "aliases": [
+        "shareholder rights policy",
+        "proxy access",
+        "one share one vote"
+      ],
+      "unit_hints": [
+        "boolean"
+      ],
+      "category": "governance",
+      "json_key": "shareholder_rights_policies",
+      "boolean": true
+    },
+    {
+      "canonical_name": "ESG risk management frameworks",
+      "aliases": [
+        "ESG risk framework",
+        "risk management framework for ESG"
+      ],
+      "unit_hints": [
+        "boolean"
+      ],
+      "category": "governance",
+      "json_key": "ESG_risk_management_framework",
+      "boolean": true
+    },
+    {
+      "canonical_name": "Data privacy/security incidents",
+      "aliases": [
+        "data privacy incidents",
+        "security incidents",
+        "breach incidents"
+      ],
+      "unit_hints": [
+        "count"
+      ],
+      "category": "governance",
+      "json_key": "data_privacy_incidents",
+      "boolean": false
+    }
+  ]
+}
